@@ -1,0 +1,9 @@
+{
+  "id": "T32",
+  "titulo": "Avisar de los presupuestos caros",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "capitulo": 9,
+  "nota": "«Caro» no tiene número en la petición; y una pieza sin precio no se puede presupuestar sola."
+}

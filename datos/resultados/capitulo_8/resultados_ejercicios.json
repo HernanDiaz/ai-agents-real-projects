@@ -1,0 +1,16 @@
+{
+ "7_oleadas_con_comprobacion": {
+  "visibles": true,
+  "ocultas": {
+   "T22": true,
+   "T28": true,
+   "T29": false
+  },
+  "en_pie": 2,
+  "pasos": 66,
+  "ruta": 66,
+  "fuera": [
+   "T29"
+  ]
+ }
+}

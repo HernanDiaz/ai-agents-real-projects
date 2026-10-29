@@ -1,0 +1,20 @@
+{
+  "tarea": "T32",
+  "objetivo": "Que el presupuesto de reparación diga si hay que pedir aprobación.",
+  "rutas_permitidas": [
+    "aprobaciones.py",
+    "tests/test_aprobaciones.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "presupuestos.py",
+    "config.py",
+    "facturas.py"
+  ],
+  "criterios_aceptacion": [
+    "aprobacion es True en un presupuesto caro y False en uno barato.",
+    "El umbral es 150 euros: 150,01 pide aprobación y 150 no.",
+    "Con una pieza sin precio, el total es None y aprobacion es True."
+  ]
+}

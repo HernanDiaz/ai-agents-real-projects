@@ -1,0 +1,18 @@
+{
+  "tarea": "T14",
+  "objetivo": "Buscar por correo sin distinguir mayúsculas ni espacios, y listar los pedidos de un cliente.",
+  "rutas_permitidas": [
+    "clientes.py",
+    "tests/test_clientes.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "«  LAURA.GOMEZ@correo.es » encuentra a CL-0001.",
+    "Un correo guardado con mayúsculas también se encuentra.",
+    "pedidos_de_cliente devuelve los números del más reciente al más antiguo, o una lista vacía."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tarea": "T28",
+  "objetivo": "Que los pedidos retrasados se puedan cancelar.",
+  "rutas_permitidas": [
+    "config.py",
+    "pedidos.py",
+    "tests/test_pedidos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/"
+  ],
+  "criterios_aceptacion": [
+    "Un pedido «retrasado» se puede cancelar.",
+    "Los enviados y entregados siguen sin poder cancelarse.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

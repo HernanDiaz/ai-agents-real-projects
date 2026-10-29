@@ -1,0 +1,8 @@
+{
+  "id": "I04",
+  "titulo": "Nuevo precio de la urgencia",
+  "tipo": "regla",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "repositorio": "clinica_naranco"
+}

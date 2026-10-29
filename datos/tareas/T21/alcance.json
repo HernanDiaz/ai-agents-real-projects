@@ -1,0 +1,19 @@
+{
+  "tarea": "T21",
+  "objetivo": "Que los pedidos devueltos no cuenten como ventas en los informes.",
+  "rutas_permitidas": [
+    "informes.py",
+    "tests/test_informes.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py",
+    "devoluciones.py"
+  ],
+  "criterios_aceptacion": [
+    "total_ventas y ticket_medio no cuentan los pedidos «devuelto».",
+    "Los pedidos con la devolución en curso siguen contando.",
+    "Los cancelados siguen sin contar."
+  ]
+}

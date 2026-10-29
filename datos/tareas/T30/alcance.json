@@ -1,0 +1,18 @@
+{
+  "tarea": "T30",
+  "objetivo": "Un aviso para los pedidos por transferencia que esperan el pago.",
+  "rutas_permitidas": [
+    "avisos.py",
+    "tests/test_avisos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "El aviso saluda y se despide como los demás.",
+    "Dice el número de pedido y el importe en euros.",
+    "Dice la fecha límite: la del pedido más config.DIAS_PAGO_TRANSFERENCIA días."
+  ]
+}

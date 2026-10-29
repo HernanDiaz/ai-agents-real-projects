@@ -1,0 +1,20 @@
+{
+  "tarea": "T18",
+  "objetivo": "Eliminar las tres copias de _dias_entre y usar utilidades.dias_entre.",
+  "rutas_permitidas": [
+    "pedidos.py",
+    "devoluciones.py",
+    "presupuestos.py",
+    "utilidades.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "tests/",
+    "config.py"
+  ],
+  "criterios_aceptacion": [
+    "Ningún módulo define _dias_entre ni usa date.fromisoformat por su cuenta.",
+    "El comportamiento no cambia: las pruebas visibles pasan sin tocarlas."
+  ]
+}

@@ -1,0 +1,362 @@
+{
+ "M-001": {
+  "nombre": "Lola",
+  "especie": "perro",
+  "raza": "Bulldog francés",
+  "sexo": "hembra",
+  "nacimiento": "2022-11-06",
+  "peso_kg": 13.0,
+  "dueno": "D-001",
+  "alergias": [],
+  "chip": "941000741392371",
+  "esterilizado": true
+ },
+ "M-002": {
+  "nombre": "Toby",
+  "especie": "perro",
+  "raza": "Caniche",
+  "sexo": "macho",
+  "nacimiento": "2012-04-12",
+  "peso_kg": 6.1,
+  "dueno": "D-002",
+  "alergias": [
+   "penicilina"
+  ],
+  "chip": "941000118316690",
+  "esterilizado": false
+ },
+ "M-003": {
+  "nombre": "Rocky",
+  "especie": "perro",
+  "raza": "Caniche",
+  "sexo": "macho",
+  "nacimiento": "2018-11-12",
+  "peso_kg": 5.8,
+  "dueno": "D-003",
+  "alergias": [],
+  "chip": "941000666263339",
+  "esterilizado": true
+ },
+ "M-004": {
+  "nombre": "Coco",
+  "especie": "perro",
+  "raza": "Beagle",
+  "sexo": "macho",
+  "nacimiento": "2022-12-17",
+  "peso_kg": 12.6,
+  "dueno": "D-004",
+  "alergias": [
+   "meloxicam"
+  ],
+  "chip": "941000737727443",
+  "esterilizado": false
+ },
+ "M-005": {
+  "nombre": "Luna",
+  "especie": "perro",
+  "raza": "Bulldog francés",
+  "sexo": "hembra",
+  "nacimiento": "2014-02-25",
+  "peso_kg": 12.4,
+  "dueno": "D-005",
+  "alergias": [],
+  "chip": "941000363400723",
+  "esterilizado": false
+ },
+ "M-006": {
+  "nombre": "Max",
+  "especie": "perro",
+  "raza": "Mestizo",
+  "sexo": "macho",
+  "nacimiento": "2022-01-02",
+  "peso_kg": 20.7,
+  "dueno": "D-006",
+  "alergias": [],
+  "chip": "941000992558108",
+  "esterilizado": true
+ },
+ "M-007": {
+  "nombre": "Kira",
+  "especie": "perro",
+  "raza": "Mestizo",
+  "sexo": "hembra",
+  "nacimiento": "2023-08-03",
+  "peso_kg": 17.3,
+  "dueno": "D-007",
+  "alergias": [],
+  "chip": "941000425839575",
+  "esterilizado": false
+ },
+ "M-008": {
+  "nombre": "Bruno",
+  "especie": "perro",
+  "raza": "Bulldog francés",
+  "sexo": "macho",
+  "nacimiento": "2013-12-04",
+  "peso_kg": 12.6,
+  "dueno": "D-008",
+  "alergias": [
+   "pollo"
+  ],
+  "chip": "941000584642145",
+  "esterilizado": true
+ },
+ "M-009": {
+  "nombre": "Nala",
+  "especie": "perro",
+  "raza": "Beagle",
+  "sexo": "hembra",
+  "nacimiento": "2012-05-31",
+  "peso_kg": 12.1,
+  "dueno": "D-009",
+  "alergias": [
+   "amoxicilina"
+  ],
+  "chip": "941000369656890",
+  "esterilizado": true
+ },
+ "M-010": {
+  "nombre": "Thor",
+  "especie": "perro",
+  "raza": "Border collie",
+  "sexo": "macho",
+  "nacimiento": "2016-03-16",
+  "peso_kg": 17.8,
+  "dueno": "D-010",
+  "alergias": [],
+  "chip": "941000584830133",
+  "esterilizado": true
+ },
+ "M-011": {
+  "nombre": "Canela",
+  "especie": "perro",
+  "raza": "Caniche",
+  "sexo": "hembra",
+  "nacimiento": "2017-09-18",
+  "peso_kg": 5.7,
+  "dueno": "D-011",
+  "alergias": [],
+  "chip": "941000552842979",
+  "esterilizado": false
+ },
+ "M-012": {
+  "nombre": "Zeus",
+  "especie": "perro",
+  "raza": "Pastor alemán",
+  "sexo": "macho",
+  "nacimiento": "2022-08-24",
+  "peso_kg": 32.2,
+  "dueno": "D-012",
+  "alergias": [],
+  "chip": "941000628304723",
+  "esterilizado": true
+ },
+ "M-013": {
+  "nombre": "Lúa",
+  "especie": "perro",
+  "raza": "Bulldog francés",
+  "sexo": "hembra",
+  "nacimiento": "2023-02-20",
+  "peso_kg": 12.3,
+  "dueno": "D-013",
+  "alergias": [],
+  "chip": "941000964084052",
+  "esterilizado": true
+ },
+ "M-014": {
+  "nombre": "Duna",
+  "especie": "perro",
+  "raza": "Border collie",
+  "sexo": "hembra",
+  "nacimiento": "2015-08-28",
+  "peso_kg": 16.7,
+  "dueno": "D-014",
+  "alergias": [],
+  "chip": "941000765121612",
+  "esterilizado": true
+ },
+ "M-015": {
+  "nombre": "Rufo",
+  "especie": "perro",
+  "raza": "Pastor alemán",
+  "sexo": "macho",
+  "nacimiento": "2019-03-07",
+  "peso_kg": 29.5,
+  "dueno": "D-015",
+  "alergias": [],
+  "chip": "941000623984659",
+  "esterilizado": false
+ },
+ "M-016": {
+  "nombre": "Bimba",
+  "especie": "perro",
+  "raza": "Beagle",
+  "sexo": "hembra",
+  "nacimiento": "2018-07-10",
+  "peso_kg": 10.8,
+  "dueno": "D-016",
+  "alergias": [],
+  "chip": "941000769782956",
+  "esterilizado": true
+ },
+ "M-017": {
+  "nombre": "Simba",
+  "especie": "gato",
+  "raza": "Europeo común",
+  "sexo": "hembra",
+  "nacimiento": "2016-02-04",
+  "peso_kg": 4.2,
+  "dueno": "D-017",
+  "alergias": [
+   "amoxicilina"
+  ],
+  "chip": "941000832395102",
+  "esterilizado": false
+ },
+ "M-018": {
+  "nombre": "Mía",
+  "especie": "gato",
+  "raza": "Persa",
+  "sexo": "hembra",
+  "nacimiento": "2023-02-27",
+  "peso_kg": 5.0,
+  "dueno": "D-018",
+  "alergias": [],
+  "chip": "941000166867104",
+  "esterilizado": false
+ },
+ "M-019": {
+  "nombre": "Michi",
+  "especie": "gato",
+  "raza": "Siamés",
+  "sexo": "macho",
+  "nacimiento": "2018-01-14",
+  "peso_kg": 3.5,
+  "dueno": "D-019",
+  "alergias": [],
+  "chip": "941000553238887",
+  "esterilizado": false
+ },
+ "M-020": {
+  "nombre": "Nube",
+  "especie": "gato",
+  "raza": "Maine coon",
+  "sexo": "hembra",
+  "nacimiento": "2013-09-13",
+  "peso_kg": 8.3,
+  "dueno": "D-020",
+  "alergias": [],
+  "chip": "941000207540635",
+  "esterilizado": true
+ },
+ "M-021": {
+  "nombre": "Oliver",
+  "especie": "gato",
+  "raza": "Siamés",
+  "sexo": "macho",
+  "nacimiento": "2017-06-16",
+  "peso_kg": 3.5,
+  "dueno": "D-021",
+  "alergias": [],
+  "chip": "941000254915484",
+  "esterilizado": true
+ },
+ "M-022": {
+  "nombre": "Cleo",
+  "especie": "gato",
+  "raza": "Europeo común",
+  "sexo": "hembra",
+  "nacimiento": "2014-05-13",
+  "peso_kg": 4.6,
+  "dueno": "D-022",
+  "alergias": [
+   "meloxicam"
+  ],
+  "chip": "941000596834617",
+  "esterilizado": false
+ },
+ "M-023": {
+  "nombre": "Salem",
+  "especie": "gato",
+  "raza": "Europeo común",
+  "sexo": "macho",
+  "nacimiento": "2012-09-09",
+  "peso_kg": 3.4,
+  "dueno": "D-023",
+  "alergias": [],
+  "chip": "941000236372319",
+  "esterilizado": false
+ },
+ "M-024": {
+  "nombre": "Misha",
+  "especie": "gato",
+  "raza": "Europeo común",
+  "sexo": "hembra",
+  "nacimiento": "2015-08-12",
+  "peso_kg": 4.8,
+  "dueno": "D-024",
+  "alergias": [],
+  "chip": "941000384740427",
+  "esterilizado": false
+ },
+ "M-025": {
+  "nombre": "Tigre",
+  "especie": "gato",
+  "raza": "Maine coon",
+  "sexo": "macho",
+  "nacimiento": "2023-03-17",
+  "peso_kg": 6.9,
+  "dueno": "D-025",
+  "alergias": [],
+  "chip": "941000949686777",
+  "esterilizado": false
+ },
+ "M-026": {
+  "nombre": "Kiwi",
+  "especie": "gato",
+  "raza": "Siamés",
+  "sexo": "macho",
+  "nacimiento": "2021-11-20",
+  "peso_kg": 3.8,
+  "dueno": "D-026",
+  "alergias": [],
+  "chip": "941000571887075",
+  "esterilizado": true
+ },
+ "M-027": {
+  "nombre": "Lía",
+  "especie": "gato",
+  "raza": "Persa",
+  "sexo": "hembra",
+  "nacimiento": "2022-09-16",
+  "peso_kg": 4.7,
+  "dueno": "D-001",
+  "alergias": [],
+  "chip": "941000168365303",
+  "esterilizado": false
+ },
+ "M-028": {
+  "nombre": "Copo",
+  "especie": "conejo",
+  "raza": "Enano",
+  "sexo": "macho",
+  "nacimiento": "2020-02-25",
+  "peso_kg": 1.1,
+  "dueno": "D-002",
+  "alergias": [],
+  "chip": null,
+  "esterilizado": false
+ },
+ "M-029": {
+  "nombre": "Trufa",
+  "especie": "conejo",
+  "raza": "Belier",
+  "sexo": "hembra",
+  "nacimiento": "2023-04-08",
+  "peso_kg": 2.1,
+  "dueno": "D-003",
+  "alergias": [],
+  "chip": null,
+  "esterilizado": true
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "CL-0001": {"nombre": "Laura Gómez", "correo": "laura.gomez@correo.es", "ciudad": "Valladolid", "publicidad": true},
+ "CL-0002": {"nombre": "Raúl Ortega", "correo": "raul.ortega@correo.es", "ciudad": "León", "publicidad": false},
+ "CL-0003": {"nombre": "Lucía Ríos", "correo": "lucia.rios@correo.es", "ciudad": "Gijón", "publicidad": true},
+ "CL-0004": {"nombre": "Sara Molina", "correo": "sara.molina@correo.es", "ciudad": "Santander", "publicidad": false},
+ "CL-0005": {"nombre": "Marta Iglesias", "correo": "marta.iglesias@correo.es", "ciudad": "Oviedo", "publicidad": true},
+ "CL-0006": {"nombre": "Óscar Vidal", "correo": "oscar.vidal@correo.es", "ciudad": "Madrid", "publicidad": false},
+ "CL-0007": {"nombre": "Carmen Díez", "correo": "carmen.diez@correo.es", "ciudad": "Oviedo"},
+ "CL-0008": {"nombre": "Ana Prieto", "correo": "Ana.Prieto@correo.es", "ciudad": "Bilbao", "publicidad": true},
+ "CL-0009": {"nombre": "Javier Soto", "correo": "javier.soto@correo.es", "ciudad": "Valencia", "publicidad": false},
+ "CL-0010": {"nombre": "Elena Martín", "correo": "elena.martin@correo.es", "ciudad": "Santa Cruz de Tenerife", "publicidad": true},
+ "CL-0011": {"nombre": "Pablo Fernández", "correo": "pablo.fernandez@correo.es", "ciudad": "Oviedo"},
+ "CL-0012": {"nombre": "Marina Bauzá", "correo": "marina.bauza@correo.es", "ciudad": "Palma", "publicidad": true}
+}

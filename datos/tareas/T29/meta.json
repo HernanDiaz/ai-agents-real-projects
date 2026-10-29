@@ -1,0 +1,8 @@
+{
+  "id": "T29",
+  "titulo": "Los gastos de envío en el resumen",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Cambio de formato en pedidos.resumen; la prueba visible usa un pedido sin envío."
+}

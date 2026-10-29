@@ -1,0 +1,18 @@
+{
+  "tarea": "T06",
+  "objetivo": "No cancelar pedidos por transferencia cuyo pago ya se ha recibido.",
+  "rutas_permitidas": [
+    "pedidos.py",
+    "tests/test_pedidos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "gestion.py"
+  ],
+  "criterios_aceptacion": [
+    "Un pedido con el pago recibido no caduca nunca.",
+    "Un pedido sin pagar sigue caducando a los cinco días.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

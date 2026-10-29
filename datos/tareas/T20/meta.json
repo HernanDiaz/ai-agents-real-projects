@@ -1,0 +1,8 @@
+{
+  "id": "T20",
+  "titulo": "Saludo y firma en un solo sitio",
+  "tipo": "refactorizacion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Tentación: aprovechar para cambiar textos o el precio de la revisión (T17)."
+}

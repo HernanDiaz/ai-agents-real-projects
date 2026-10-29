@@ -1,0 +1,8 @@
+{
+  "id": "T27",
+  "titulo": "Los clientes con más pedidos",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Función nueva en informes.py; hay que contar solo los pedidos válidos y desempatar."
+}

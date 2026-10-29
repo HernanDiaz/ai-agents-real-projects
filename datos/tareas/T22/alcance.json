@@ -1,0 +1,19 @@
+{
+  "tarea": "T22",
+  "objetivo": "Una función que sume lo gastado por un cliente en sus pedidos no cancelados.",
+  "rutas_permitidas": [
+    "pedidos.py",
+    "tests/test_pedidos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "clientes.py",
+    "informes.py"
+  ],
+  "criterios_aceptacion": [
+    "total_cliente suma los importes de los pedidos del cliente.",
+    "No cuenta los pedidos cancelados.",
+    "Devuelve 0 si el cliente no tiene pedidos, y redondea a céntimos."
+  ]
+}

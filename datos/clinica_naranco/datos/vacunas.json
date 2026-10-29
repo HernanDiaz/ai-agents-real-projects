@@ -1,0 +1,385 @@
+{
+ "M-001": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-08-22",
+   "proxima": "2027-08-22"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2025-11-12",
+   "proxima": "2026-11-12"
+  }
+ ],
+ "M-002": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2025-09-16",
+   "proxima": "2026-09-16"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2025-09-05",
+   "proxima": "2026-09-05"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2025-09-24",
+   "proxima": "2026-09-24"
+  }
+ ],
+ "M-003": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-04-27",
+   "proxima": "2027-04-27"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-02-05",
+   "proxima": "2027-02-05"
+  }
+ ],
+ "M-004": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2025-09-21",
+   "proxima": "2026-09-21"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-08-25",
+   "proxima": "2027-08-25"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-07-06",
+   "proxima": "2027-07-06"
+  }
+ ],
+ "M-005": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-07-03",
+   "proxima": "2027-07-03"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-04-02",
+   "proxima": "2027-04-02"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-07-13",
+   "proxima": "2027-07-13"
+  }
+ ],
+ "M-006": [
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-05-25",
+   "proxima": "2027-05-25"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2025-11-07",
+   "proxima": "2026-11-07"
+  }
+ ],
+ "M-007": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2025-11-19",
+   "proxima": "2026-11-19"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2025-12-12",
+   "proxima": "2026-12-12"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2025-10-31",
+   "proxima": "2026-10-31"
+  }
+ ],
+ "M-008": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-01-21",
+   "proxima": "2027-01-21"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-09-27",
+   "proxima": "2027-09-27"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2025-08-29",
+   "proxima": "2026-08-29"
+  }
+ ],
+ "M-009": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2025-09-06",
+   "proxima": "2026-09-06"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-01-20",
+   "proxima": "2027-01-20"
+  }
+ ],
+ "M-010": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2025-12-13",
+   "proxima": "2026-12-13"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2025-10-24",
+   "proxima": "2026-10-24"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-06-02",
+   "proxima": "2027-06-02"
+  }
+ ],
+ "M-011": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-01-08",
+   "proxima": "2027-01-08"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-07-13",
+   "proxima": "2027-07-13"
+  }
+ ],
+ "M-012": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-06-05",
+   "proxima": "2027-06-05"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-01-21",
+   "proxima": "2027-01-21"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-04-18",
+   "proxima": "2027-04-18"
+  }
+ ],
+ "M-013": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-02-06",
+   "proxima": "2027-02-06"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-07-29",
+   "proxima": "2027-07-29"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-03-21",
+   "proxima": "2027-03-21"
+  }
+ ],
+ "M-014": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2025-12-09",
+   "proxima": "2026-12-09"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2025-11-28",
+   "proxima": "2026-11-28"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2025-12-26",
+   "proxima": "2026-12-26"
+  }
+ ],
+ "M-015": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-03-05",
+   "proxima": "2027-03-05"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-07-02",
+   "proxima": "2027-07-02"
+  }
+ ],
+ "M-016": [
+  {
+   "vacuna": "rabia",
+   "ultima": "2026-05-04",
+   "proxima": "2027-05-04"
+  },
+  {
+   "vacuna": "polivalente",
+   "ultima": "2026-07-02",
+   "proxima": "2027-07-02"
+  },
+  {
+   "vacuna": "leishmaniosis",
+   "ultima": "2026-04-05",
+   "proxima": "2027-04-05"
+  }
+ ],
+ "M-017": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2025-12-11",
+   "proxima": "2026-12-11"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2025-12-18",
+   "proxima": "2026-12-18"
+  }
+ ],
+ "M-018": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2026-03-10",
+   "proxima": "2027-03-10"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2026-03-04",
+   "proxima": "2027-03-04"
+  }
+ ],
+ "M-019": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2026-07-01",
+   "proxima": "2027-07-01"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2026-05-09",
+   "proxima": "2027-05-09"
+  }
+ ],
+ "M-020": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2026-07-21",
+   "proxima": "2027-07-21"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2026-02-05",
+   "proxima": "2027-02-05"
+  }
+ ],
+ "M-021": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2025-08-27",
+   "proxima": "2026-08-27"
+  }
+ ],
+ "M-022": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2026-04-13",
+   "proxima": "2027-04-13"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2026-02-07",
+   "proxima": "2027-02-07"
+  }
+ ],
+ "M-023": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2025-10-04",
+   "proxima": "2026-10-04"
+  }
+ ],
+ "M-024": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2025-12-08",
+   "proxima": "2026-12-08"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2026-08-03",
+   "proxima": "2027-08-03"
+  }
+ ],
+ "M-025": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2026-07-08",
+   "proxima": "2027-07-08"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2025-12-05",
+   "proxima": "2026-12-05"
+  }
+ ],
+ "M-026": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2026-05-15",
+   "proxima": "2027-05-15"
+  },
+  {
+   "vacuna": "leucemia felina",
+   "ultima": "2026-09-05",
+   "proxima": "2027-09-05"
+  }
+ ],
+ "M-027": [
+  {
+   "vacuna": "trivalente felina",
+   "ultima": "2025-09-12",
+   "proxima": "2026-09-12"
+  }
+ ],
+ "M-028": [
+  {
+   "vacuna": "mixomatosis",
+   "ultima": "2026-03-31",
+   "proxima": "2026-09-27"
+  },
+  {
+   "vacuna": "hemorrágica vírica",
+   "ultima": "2026-09-22",
+   "proxima": "2027-09-22"
+  }
+ ],
+ "M-029": [
+  {
+   "vacuna": "mixomatosis",
+   "ultima": "2026-09-29",
+   "proxima": "2027-03-28"
+  },
+  {
+   "vacuna": "hemorrágica vírica",
+   "ultima": "2026-07-15",
+   "proxima": "2027-07-15"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T22",
+  "titulo": "Lo que ha gastado un cliente",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Función nueva de pocas líneas; hay que mirar cómo se guardan los pedidos (por número, con el cliente dentro)."
+}

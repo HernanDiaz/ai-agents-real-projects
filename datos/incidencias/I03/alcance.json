@@ -1,0 +1,15 @@
+{
+  "tarea": "I03",
+  "objetivo": "Que dosis no dé una dosis de un medicamento al que la mascota es alérgica.",
+  "rutas_permitidas": [
+    "farmacia.py",
+    "tests/test_farmacia.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/"
+  ],
+  "criterios_aceptacion": [
+    "dosis lanza ValueError si el medicamento está en las alergias de la mascota.",
+    "Sin alergia al medicamento, la dosis no cambia."
+  ]
+}

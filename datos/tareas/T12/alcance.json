@@ -1,0 +1,19 @@
+{
+  "tarea": "T12",
+  "objetivo": "Numerar las facturas por año y serie, y emitir facturas rectificativas.",
+  "rutas_permitidas": [
+    "facturas.py",
+    "tests/test_facturas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "devoluciones.py"
+  ],
+  "criterios_aceptacion": [
+    "La numeración es correlativa dentro de cada año y serie.",
+    "Cada año empieza en 0001.",
+    "La rectificativa lleva los importes en negativo y el número de la original.",
+    "texto_factura sirve también para la rectificativa."
+  ]
+}

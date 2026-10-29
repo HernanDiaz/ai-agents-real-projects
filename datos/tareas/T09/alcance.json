@@ -1,0 +1,21 @@
+{
+  "tarea": "T09",
+  "objetivo": "Calcular las cuotas del pago a plazos y mostrarlas en la factura.",
+  "rutas_permitidas": [
+    "pedidos.py",
+    "facturas.py",
+    "config.py",
+    "tests/test_pedidos.py",
+    "tests/test_facturas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/"
+  ],
+  "criterios_aceptacion": [
+    "cuotas(1000, 3) da [333.33, 333.33, 333.34].",
+    "Las cuotas suman exactamente el importe.",
+    "Importes de 300 € o menos, o meses distintos de 3, 6 y 12: ValueError.",
+    "La factura de un pedido a plazos muestra la línea del pago aplazado."
+  ]
+}

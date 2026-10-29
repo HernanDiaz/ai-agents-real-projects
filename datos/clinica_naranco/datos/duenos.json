@@ -1,0 +1,158 @@
+{
+ "D-001": {
+  "nombre": "Marta Fernández",
+  "telefono": "687016831",
+  "correo": "marta11@correo.es",
+  "avisos": "correo"
+ },
+ "D-002": {
+  "nombre": "Pedro Álvarez",
+  "telefono": "645114241",
+  "correo": "pedro5@correo.es",
+  "avisos": "correo"
+ },
+ "D-003": {
+  "nombre": "Carmen Rodríguez",
+  "telefono": "629539150",
+  "correo": "carmen85@correo.es",
+  "avisos": "SMS"
+ },
+ "D-004": {
+  "nombre": "Javier García",
+  "telefono": "673116457",
+  "correo": "javier98@correo.es",
+  "avisos": "SMS"
+ },
+ "D-005": {
+  "nombre": "Elena Menéndez",
+  "telefono": "660084737",
+  "correo": "elena41@correo.es",
+  "avisos": "correo"
+ },
+ "D-006": {
+  "nombre": "Luis Martínez",
+  "telefono": "646600917",
+  "correo": "luis63@correo.es",
+  "avisos": "correo"
+ },
+ "D-007": {
+  "nombre": "Sofía López",
+  "telefono": "665567003",
+  "correo": "sofia69@correo.es",
+  "avisos": "SMS"
+ },
+ "D-008": {
+  "nombre": "Diego González",
+  "telefono": "622644680",
+  "correo": "diego25@correo.es",
+  "avisos": "SMS"
+ },
+ "D-009": {
+  "nombre": "Paula Iglesias",
+  "telefono": "684304969",
+  "correo": "paula90@correo.es",
+  "avisos": "SMS"
+ },
+ "D-010": {
+  "nombre": "Andrés Suárez",
+  "telefono": "645637632",
+  "correo": "andres85@correo.es",
+  "avisos": "SMS"
+ },
+ "D-011": {
+  "nombre": "Lucía Díaz",
+  "telefono": "621825796",
+  "correo": "lucia55@correo.es",
+  "avisos": "correo"
+ },
+ "D-012": {
+  "nombre": "Raúl Fernández",
+  "telefono": "622500313",
+  "correo": "raul47@correo.es",
+  "avisos": "correo"
+ },
+ "D-013": {
+  "nombre": "Nuria Blanco",
+  "telefono": "643619751",
+  "correo": "nuria57@correo.es",
+  "avisos": "SMS"
+ },
+ "D-014": {
+  "nombre": "Óscar Prieto",
+  "telefono": "622586988",
+  "correo": "oscar97@correo.es",
+  "avisos": "correo"
+ },
+ "D-015": {
+  "nombre": "Irene Castro",
+  "telefono": "695217365",
+  "correo": "irene38@correo.es",
+  "avisos": "correo"
+ },
+ "D-016": {
+  "nombre": "Hugo Vallina",
+  "telefono": "616131481",
+  "correo": "hugo76@correo.es",
+  "avisos": "correo"
+ },
+ "D-017": {
+  "nombre": "Beatriz Rubio",
+  "telefono": "697966834",
+  "correo": "beatriz47@correo.es",
+  "avisos": "correo"
+ },
+ "D-018": {
+  "nombre": "Mario Cuesta",
+  "telefono": "636001063",
+  "correo": "mario66@correo.es",
+  "avisos": "SMS"
+ },
+ "D-019": {
+  "nombre": "Alba Llaneza",
+  "telefono": "696512963",
+  "correo": "alba90@correo.es",
+  "avisos": "SMS"
+ },
+ "D-020": {
+  "nombre": "Sergio Pando",
+  "telefono": "613814733",
+  "correo": "sergio82@correo.es",
+  "avisos": "correo"
+ },
+ "D-021": {
+  "nombre": "Clara Miranda",
+  "telefono": "642869345",
+  "correo": "clara78@correo.es",
+  "avisos": "correo"
+ },
+ "D-022": {
+  "nombre": "Iván Solís",
+  "telefono": "650845730",
+  "correo": "ivan46@correo.es",
+  "avisos": "SMS"
+ },
+ "D-023": {
+  "nombre": "Rosa Villa",
+  "telefono": "626050383",
+  "correo": "rosa12@correo.es",
+  "avisos": "SMS"
+ },
+ "D-024": {
+  "nombre": "Tomás Alonso",
+  "telefono": "680499631",
+  "correo": "tomas26@correo.es",
+  "avisos": "correo"
+ },
+ "D-025": {
+  "nombre": "Laura Gómez",
+  "telefono": "691632348",
+  "correo": "laura85@correo.es",
+  "avisos": "correo"
+ },
+ "D-026": {
+  "nombre": "David Peláez",
+  "telefono": "651913600",
+  "correo": "david93@correo.es",
+  "avisos": "correo"
+ }
+}

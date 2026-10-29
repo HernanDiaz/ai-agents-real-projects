@@ -1,0 +1,19 @@
+{
+  "tarea": "T03",
+  "objetivo": "Reembolsar los gastos de envío solo cuando se devuelven todas las unidades.",
+  "rutas_permitidas": [
+    "devoluciones.py",
+    "tests/test_devoluciones.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "envios.py",
+    "config.py"
+  ],
+  "criterios_aceptacion": [
+    "Devolver una de dos unidades no reembolsa el envío.",
+    "Devolver todas las unidades, aunque sea en varias entradas, sí lo reembolsa.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

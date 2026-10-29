@@ -1,0 +1,18 @@
+{
+  "tarea": "T20",
+  "objetivo": "Una función componer() para el saludo y la firma, usada por todos los avisos.",
+  "rutas_permitidas": [
+    "avisos.py",
+    "tests/test_avisos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "clientes.py"
+  ],
+  "criterios_aceptacion": [
+    "avisos.componer(cliente, cuerpo) devuelve el correo completo.",
+    "El saludo y la firma aparecen una sola vez en avisos.py.",
+    "Los textos de todos los avisos son idénticos a los de antes."
+  ]
+}

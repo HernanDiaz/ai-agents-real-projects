@@ -1,0 +1,8 @@
+# Vídeos y PDF: no van en el repositorio
+*.mp4
+*.pdf
+
+# Salidas de los cuadernos al ejecutarlos en local
+.ipynb_checkpoints/
+__pycache__/
+instalado/

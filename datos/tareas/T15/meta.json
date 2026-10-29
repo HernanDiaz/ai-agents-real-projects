@@ -1,0 +1,8 @@
+{
+  "id": "T15",
+  "titulo": "Nuevos umbrales de envío gratis",
+  "tipo": "regla",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Cambia la regla, así que hay que cambiar también las pruebas visibles."
+}

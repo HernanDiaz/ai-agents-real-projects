@@ -1,0 +1,18 @@
+{
+  "tarea": "T26",
+  "objetivo": "Que las líneas de la factura muestren la talla, salvo la talla única.",
+  "rutas_permitidas": [
+    "facturas.py",
+    "tests/test_facturas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "Cada línea dice «cantidad × nombre (talla)».",
+    "Con la talla «única», la línea queda como antes.",
+    "El resto de la factura no cambia."
+  ]
+}

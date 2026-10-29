@@ -1,0 +1,19 @@
+{
+  "tarea": "T08",
+  "objetivo": "Enviar publicidad solo a los clientes que la han aceptado expresamente.",
+  "rutas_permitidas": [
+    "clientes.py",
+    "avisos.py",
+    "tests/test_clientes.py",
+    "tests/test_avisos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/"
+  ],
+  "criterios_aceptacion": [
+    "Un cliente sin el campo «publicidad» no recibe promociones.",
+    "Los que tienen publicidad: true siguen recibiéndolas.",
+    "No se tocan los datos de los clientes."
+  ]
+}

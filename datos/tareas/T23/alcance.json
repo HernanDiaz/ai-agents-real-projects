@@ -1,0 +1,18 @@
+{
+  "tarea": "T23",
+  "objetivo": "Una función con las unidades de una referencia sumando todas las tallas.",
+  "rutas_permitidas": [
+    "existencias.py",
+    "tests/test_existencias.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "gestion.py"
+  ],
+  "criterios_aceptacion": [
+    "total_unidades suma las unidades de todas las tallas.",
+    "Devuelve 0 si la referencia no existe.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

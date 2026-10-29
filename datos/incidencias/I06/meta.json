@@ -1,0 +1,8 @@
+{
+  "id": "I06",
+  "titulo": "Dos citas a la misma hora",
+  "tipo": "fallo",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "repositorio": "clinica_naranco"
+}

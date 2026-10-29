@@ -1,0 +1,17 @@
+{
+  "tarea": "T02",
+  "objetivo": "Que la zona de envío sea correcta aunque el código postal haya perdido el cero inicial o venga como número.",
+  "rutas_permitidas": [
+    "envios.py",
+    "tests/test_envios.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/"
+  ],
+  "criterios_aceptacion": [
+    "Un código postal 7002 (número o texto) se reconoce como Baleares.",
+    "Los códigos de la península que empiezan por 0 siguen siendo península.",
+    "No se modifican los datos: el programa debe aceptarlos como vienen."
+  ]
+}

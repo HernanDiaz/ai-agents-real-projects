@@ -1,0 +1,1064 @@
+[
+ {
+  "id": "CT-0001",
+  "fecha": "2026-10-19",
+  "hora": "11:00",
+  "veterinario": "V1",
+  "mascota": "M-008",
+  "motivo": "revisión anual",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0002",
+  "fecha": "2026-10-19",
+  "hora": "11:30",
+  "veterinario": "V1",
+  "mascota": "M-021",
+  "motivo": "control de peso",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0003",
+  "fecha": "2026-10-19",
+  "hora": "12:30",
+  "veterinario": "V1",
+  "mascota": "M-002",
+  "motivo": "dermatitis",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0004",
+  "fecha": "2026-10-19",
+  "hora": "17:30",
+  "veterinario": "V1",
+  "mascota": "M-007",
+  "motivo": "herida en una pata",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0005",
+  "fecha": "2026-10-19",
+  "hora": "09:00",
+  "veterinario": "V2",
+  "mascota": "M-007",
+  "motivo": "desparasitación",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0006",
+  "fecha": "2026-10-19",
+  "hora": "09:30",
+  "veterinario": "V2",
+  "mascota": "M-011",
+  "motivo": "herida en una pata",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0007",
+  "fecha": "2026-10-19",
+  "hora": "10:00",
+  "veterinario": "V2",
+  "mascota": "M-029",
+  "motivo": "control de peso",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0008",
+  "fecha": "2026-10-19",
+  "hora": "10:30",
+  "veterinario": "V2",
+  "mascota": "M-003",
+  "motivo": "limpieza dental",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0009",
+  "fecha": "2026-10-19",
+  "hora": "11:00",
+  "veterinario": "V2",
+  "mascota": "M-016",
+  "motivo": "cojera",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0010",
+  "fecha": "2026-10-19",
+  "hora": "12:30",
+  "veterinario": "V2",
+  "mascota": "M-026",
+  "motivo": "dermatitis",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0011",
+  "fecha": "2026-10-19",
+  "hora": "13:00",
+  "veterinario": "V2",
+  "mascota": "M-017",
+  "motivo": "dermatitis",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0012",
+  "fecha": "2026-10-19",
+  "hora": "13:30",
+  "veterinario": "V2",
+  "mascota": "M-025",
+  "motivo": "vómitos",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0013",
+  "fecha": "2026-10-19",
+  "hora": "16:00",
+  "veterinario": "V2",
+  "mascota": "M-025",
+  "motivo": "revisión anual",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0014",
+  "fecha": "2026-10-19",
+  "hora": "16:30",
+  "veterinario": "V2",
+  "mascota": "M-028",
+  "motivo": "limpieza dental",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0015",
+  "fecha": "2026-10-19",
+  "hora": "18:00",
+  "veterinario": "V2",
+  "mascota": "M-017",
+  "motivo": "diarrea",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0016",
+  "fecha": "2026-10-19",
+  "hora": "18:30",
+  "veterinario": "V2",
+  "mascota": "M-014",
+  "motivo": "diarrea",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0017",
+  "fecha": "2026-10-19",
+  "hora": "09:00",
+  "veterinario": "V3",
+  "mascota": "M-023",
+  "motivo": "herida en una pata",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0018",
+  "fecha": "2026-10-19",
+  "hora": "09:30",
+  "veterinario": "V3",
+  "mascota": "M-014",
+  "motivo": "otitis",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0019",
+  "fecha": "2026-10-19",
+  "hora": "10:00",
+  "veterinario": "V3",
+  "mascota": "M-019",
+  "motivo": "control de peso",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0020",
+  "fecha": "2026-10-19",
+  "hora": "11:00",
+  "veterinario": "V3",
+  "mascota": "M-029",
+  "motivo": "control de peso",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0021",
+  "fecha": "2026-10-19",
+  "hora": "11:30",
+  "veterinario": "V3",
+  "mascota": "M-023",
+  "motivo": "control de peso",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0022",
+  "fecha": "2026-10-19",
+  "hora": "12:00",
+  "veterinario": "V3",
+  "mascota": "M-015",
+  "motivo": "diarrea",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0023",
+  "fecha": "2026-10-19",
+  "hora": "12:30",
+  "veterinario": "V3",
+  "mascota": "M-025",
+  "motivo": "limpieza dental",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0024",
+  "fecha": "2026-10-19",
+  "hora": "16:30",
+  "veterinario": "V3",
+  "mascota": "M-002",
+  "motivo": "vacunación",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0025",
+  "fecha": "2026-10-19",
+  "hora": "17:00",
+  "veterinario": "V3",
+  "mascota": "M-007",
+  "motivo": "herida en una pata",
+  "estado": "realizada"
+ },
+ {
+  "id": "CT-0026",
+  "fecha": "2026-10-20",
+  "hora": "09:30",
+  "veterinario": "V1",
+  "mascota": "M-003",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0027",
+  "fecha": "2026-10-20",
+  "hora": "10:30",
+  "veterinario": "V1",
+  "mascota": "M-004",
+  "motivo": "limpieza dental",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0028",
+  "fecha": "2026-10-20",
+  "hora": "11:00",
+  "veterinario": "V1",
+  "mascota": "M-001",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0029",
+  "fecha": "2026-10-20",
+  "hora": "11:30",
+  "veterinario": "V1",
+  "mascota": "M-015",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0030",
+  "fecha": "2026-10-20",
+  "hora": "17:00",
+  "veterinario": "V1",
+  "mascota": "M-015",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0031",
+  "fecha": "2026-10-20",
+  "hora": "18:00",
+  "veterinario": "V1",
+  "mascota": "M-014",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0032",
+  "fecha": "2026-10-20",
+  "hora": "18:30",
+  "veterinario": "V1",
+  "mascota": "M-029",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0033",
+  "fecha": "2026-10-20",
+  "hora": "09:00",
+  "veterinario": "V2",
+  "mascota": "M-008",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0034",
+  "fecha": "2026-10-20",
+  "hora": "09:30",
+  "veterinario": "V2",
+  "mascota": "M-010",
+  "motivo": "limpieza dental",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0035",
+  "fecha": "2026-10-20",
+  "hora": "10:30",
+  "veterinario": "V2",
+  "mascota": "M-015",
+  "motivo": "otitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0036",
+  "fecha": "2026-10-20",
+  "hora": "13:00",
+  "veterinario": "V2",
+  "mascota": "M-021",
+  "motivo": "otitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0037",
+  "fecha": "2026-10-20",
+  "hora": "18:30",
+  "veterinario": "V2",
+  "mascota": "M-002",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0038",
+  "fecha": "2026-10-20",
+  "hora": "09:00",
+  "veterinario": "V3",
+  "mascota": "M-023",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0039",
+  "fecha": "2026-10-20",
+  "hora": "10:00",
+  "veterinario": "V3",
+  "mascota": "M-006",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0040",
+  "fecha": "2026-10-20",
+  "hora": "10:30",
+  "veterinario": "V3",
+  "mascota": "M-010",
+  "motivo": "limpieza dental",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0041",
+  "fecha": "2026-10-20",
+  "hora": "11:00",
+  "veterinario": "V3",
+  "mascota": "M-023",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0042",
+  "fecha": "2026-10-20",
+  "hora": "11:30",
+  "veterinario": "V3",
+  "mascota": "M-011",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0043",
+  "fecha": "2026-10-20",
+  "hora": "12:00",
+  "veterinario": "V3",
+  "mascota": "M-005",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0044",
+  "fecha": "2026-10-20",
+  "hora": "16:30",
+  "veterinario": "V3",
+  "mascota": "M-005",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0045",
+  "fecha": "2026-10-20",
+  "hora": "17:00",
+  "veterinario": "V3",
+  "mascota": "M-018",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0046",
+  "fecha": "2026-10-20",
+  "hora": "18:00",
+  "veterinario": "V3",
+  "mascota": "M-022",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0047",
+  "fecha": "2026-10-20",
+  "hora": "18:30",
+  "veterinario": "V3",
+  "mascota": "M-017",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0048",
+  "fecha": "2026-10-21",
+  "hora": "09:00",
+  "veterinario": "V1",
+  "mascota": "M-019",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0049",
+  "fecha": "2026-10-21",
+  "hora": "12:00",
+  "veterinario": "V1",
+  "mascota": "M-001",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0050",
+  "fecha": "2026-10-21",
+  "hora": "12:30",
+  "veterinario": "V1",
+  "mascota": "M-007",
+  "motivo": "diarrea",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0051",
+  "fecha": "2026-10-21",
+  "hora": "13:30",
+  "veterinario": "V1",
+  "mascota": "M-020",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0052",
+  "fecha": "2026-10-21",
+  "hora": "17:00",
+  "veterinario": "V1",
+  "mascota": "M-012",
+  "motivo": "desparasitación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0053",
+  "fecha": "2026-10-21",
+  "hora": "11:30",
+  "veterinario": "V2",
+  "mascota": "M-018",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0054",
+  "fecha": "2026-10-21",
+  "hora": "12:30",
+  "veterinario": "V2",
+  "mascota": "M-008",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0055",
+  "fecha": "2026-10-21",
+  "hora": "13:30",
+  "veterinario": "V2",
+  "mascota": "M-004",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0056",
+  "fecha": "2026-10-21",
+  "hora": "17:00",
+  "veterinario": "V2",
+  "mascota": "M-002",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0057",
+  "fecha": "2026-10-21",
+  "hora": "17:30",
+  "veterinario": "V2",
+  "mascota": "M-027",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0058",
+  "fecha": "2026-10-21",
+  "hora": "18:30",
+  "veterinario": "V2",
+  "mascota": "M-023",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0059",
+  "fecha": "2026-10-21",
+  "hora": "09:00",
+  "veterinario": "V3",
+  "mascota": "M-004",
+  "motivo": "desparasitación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0060",
+  "fecha": "2026-10-21",
+  "hora": "09:30",
+  "veterinario": "V3",
+  "mascota": "M-003",
+  "motivo": "revisión anual",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0061",
+  "fecha": "2026-10-21",
+  "hora": "10:00",
+  "veterinario": "V3",
+  "mascota": "M-018",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0062",
+  "fecha": "2026-10-21",
+  "hora": "12:00",
+  "veterinario": "V3",
+  "mascota": "M-006",
+  "motivo": "diarrea",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0063",
+  "fecha": "2026-10-21",
+  "hora": "12:30",
+  "veterinario": "V3",
+  "mascota": "M-011",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0064",
+  "fecha": "2026-10-21",
+  "hora": "13:30",
+  "veterinario": "V3",
+  "mascota": "M-015",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0065",
+  "fecha": "2026-10-21",
+  "hora": "16:00",
+  "veterinario": "V3",
+  "mascota": "M-010",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0066",
+  "fecha": "2026-10-21",
+  "hora": "16:30",
+  "veterinario": "V3",
+  "mascota": "M-004",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0067",
+  "fecha": "2026-10-22",
+  "hora": "09:30",
+  "veterinario": "V1",
+  "mascota": "M-011",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0068",
+  "fecha": "2026-10-22",
+  "hora": "10:30",
+  "veterinario": "V1",
+  "mascota": "M-021",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0069",
+  "fecha": "2026-10-22",
+  "hora": "11:00",
+  "veterinario": "V1",
+  "mascota": "M-012",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0070",
+  "fecha": "2026-10-22",
+  "hora": "11:30",
+  "veterinario": "V1",
+  "mascota": "M-020",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0071",
+  "fecha": "2026-10-22",
+  "hora": "12:30",
+  "veterinario": "V1",
+  "mascota": "M-020",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0072",
+  "fecha": "2026-10-22",
+  "hora": "13:00",
+  "veterinario": "V1",
+  "mascota": "M-029",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0073",
+  "fecha": "2026-10-22",
+  "hora": "18:30",
+  "veterinario": "V1",
+  "mascota": "M-029",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0074",
+  "fecha": "2026-10-22",
+  "hora": "09:00",
+  "veterinario": "V2",
+  "mascota": "M-016",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0075",
+  "fecha": "2026-10-22",
+  "hora": "10:00",
+  "veterinario": "V2",
+  "mascota": "M-013",
+  "motivo": "desparasitación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0076",
+  "fecha": "2026-10-22",
+  "hora": "10:30",
+  "veterinario": "V2",
+  "mascota": "M-013",
+  "motivo": "otitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0077",
+  "fecha": "2026-10-22",
+  "hora": "11:00",
+  "veterinario": "V2",
+  "mascota": "M-015",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0078",
+  "fecha": "2026-10-22",
+  "hora": "12:00",
+  "veterinario": "V2",
+  "mascota": "M-018",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0079",
+  "fecha": "2026-10-22",
+  "hora": "12:30",
+  "veterinario": "V2",
+  "mascota": "M-008",
+  "motivo": "diarrea",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0080",
+  "fecha": "2026-10-22",
+  "hora": "16:30",
+  "veterinario": "V2",
+  "mascota": "M-020",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0081",
+  "fecha": "2026-10-22",
+  "hora": "17:00",
+  "veterinario": "V2",
+  "mascota": "M-025",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0082",
+  "fecha": "2026-10-22",
+  "hora": "17:30",
+  "veterinario": "V2",
+  "mascota": "M-011",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0083",
+  "fecha": "2026-10-22",
+  "hora": "09:00",
+  "veterinario": "V3",
+  "mascota": "M-004",
+  "motivo": "limpieza dental",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0084",
+  "fecha": "2026-10-22",
+  "hora": "10:00",
+  "veterinario": "V3",
+  "mascota": "M-008",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0085",
+  "fecha": "2026-10-22",
+  "hora": "10:30",
+  "veterinario": "V3",
+  "mascota": "M-017",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0086",
+  "fecha": "2026-10-22",
+  "hora": "12:00",
+  "veterinario": "V3",
+  "mascota": "M-028",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0087",
+  "fecha": "2026-10-22",
+  "hora": "12:30",
+  "veterinario": "V3",
+  "mascota": "M-004",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0088",
+  "fecha": "2026-10-22",
+  "hora": "16:00",
+  "veterinario": "V3",
+  "mascota": "M-008",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0089",
+  "fecha": "2026-10-22",
+  "hora": "16:30",
+  "veterinario": "V3",
+  "mascota": "M-020",
+  "motivo": "diarrea",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0090",
+  "fecha": "2026-10-22",
+  "hora": "17:30",
+  "veterinario": "V3",
+  "mascota": "M-007",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0091",
+  "fecha": "2026-10-23",
+  "hora": "09:00",
+  "veterinario": "V1",
+  "mascota": "M-018",
+  "motivo": "otitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0092",
+  "fecha": "2026-10-23",
+  "hora": "10:00",
+  "veterinario": "V1",
+  "mascota": "M-024",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0093",
+  "fecha": "2026-10-23",
+  "hora": "10:30",
+  "veterinario": "V1",
+  "mascota": "M-010",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0094",
+  "fecha": "2026-10-23",
+  "hora": "11:00",
+  "veterinario": "V1",
+  "mascota": "M-004",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0095",
+  "fecha": "2026-10-23",
+  "hora": "12:30",
+  "veterinario": "V1",
+  "mascota": "M-010",
+  "motivo": "limpieza dental",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0096",
+  "fecha": "2026-10-23",
+  "hora": "13:00",
+  "veterinario": "V1",
+  "mascota": "M-024",
+  "motivo": "cojera",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0097",
+  "fecha": "2026-10-23",
+  "hora": "16:00",
+  "veterinario": "V1",
+  "mascota": "M-016",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0098",
+  "fecha": "2026-10-23",
+  "hora": "16:30",
+  "veterinario": "V1",
+  "mascota": "M-001",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0099",
+  "fecha": "2026-10-23",
+  "hora": "17:30",
+  "veterinario": "V1",
+  "mascota": "M-015",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0100",
+  "fecha": "2026-10-23",
+  "hora": "18:00",
+  "veterinario": "V1",
+  "mascota": "M-002",
+  "motivo": "diarrea",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0101",
+  "fecha": "2026-10-23",
+  "hora": "09:00",
+  "veterinario": "V2",
+  "mascota": "M-005",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0102",
+  "fecha": "2026-10-23",
+  "hora": "10:30",
+  "veterinario": "V2",
+  "mascota": "M-027",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0103",
+  "fecha": "2026-10-23",
+  "hora": "11:30",
+  "veterinario": "V2",
+  "mascota": "M-012",
+  "motivo": "tos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0104",
+  "fecha": "2026-10-23",
+  "hora": "12:00",
+  "veterinario": "V2",
+  "mascota": "M-019",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0105",
+  "fecha": "2026-10-23",
+  "hora": "12:30",
+  "veterinario": "V2",
+  "mascota": "M-027",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0106",
+  "fecha": "2026-10-23",
+  "hora": "16:00",
+  "veterinario": "V2",
+  "mascota": "M-012",
+  "motivo": "revisión anual",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0107",
+  "fecha": "2026-10-23",
+  "hora": "16:30",
+  "veterinario": "V2",
+  "mascota": "M-002",
+  "motivo": "herida en una pata",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0108",
+  "fecha": "2026-10-23",
+  "hora": "17:00",
+  "veterinario": "V2",
+  "mascota": "M-004",
+  "motivo": "limpieza dental",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0109",
+  "fecha": "2026-10-23",
+  "hora": "18:00",
+  "veterinario": "V2",
+  "mascota": "M-006",
+  "motivo": "dermatitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0110",
+  "fecha": "2026-10-23",
+  "hora": "18:30",
+  "veterinario": "V2",
+  "mascota": "M-003",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0111",
+  "fecha": "2026-10-23",
+  "hora": "10:00",
+  "veterinario": "V3",
+  "mascota": "M-008",
+  "motivo": "diarrea",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0112",
+  "fecha": "2026-10-23",
+  "hora": "11:00",
+  "veterinario": "V3",
+  "mascota": "M-027",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0113",
+  "fecha": "2026-10-23",
+  "hora": "11:30",
+  "veterinario": "V3",
+  "mascota": "M-026",
+  "motivo": "otitis",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0114",
+  "fecha": "2026-10-23",
+  "hora": "12:00",
+  "veterinario": "V3",
+  "mascota": "M-012",
+  "motivo": "vacunación",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0115",
+  "fecha": "2026-10-23",
+  "hora": "16:30",
+  "veterinario": "V3",
+  "mascota": "M-009",
+  "motivo": "vómitos",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0116",
+  "fecha": "2026-10-23",
+  "hora": "17:30",
+  "veterinario": "V3",
+  "mascota": "M-025",
+  "motivo": "revisión anual",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0117",
+  "fecha": "2026-10-23",
+  "hora": "18:00",
+  "veterinario": "V3",
+  "mascota": "M-012",
+  "motivo": "control de peso",
+  "estado": "pendiente"
+ },
+ {
+  "id": "CT-0118",
+  "fecha": "2026-10-23",
+  "hora": "18:30",
+  "veterinario": "V3",
+  "mascota": "M-002",
+  "motivo": "desparasitación",
+  "estado": "pendiente"
+ }
+]

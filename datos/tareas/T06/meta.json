@@ -1,0 +1,8 @@
+{
+  "id": "T06",
+  "titulo": "Se cancelan transferencias ya pagadas",
+  "tipo": "fallo",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "nota": "transferencia_caducada no mira si el pago ha llegado."
+}

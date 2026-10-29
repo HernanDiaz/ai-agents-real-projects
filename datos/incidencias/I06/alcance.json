@@ -1,0 +1,15 @@
+{
+  "tarea": "I06",
+  "objetivo": "Que no se pueda reservar una hora que el veterinario ya tiene ocupada.",
+  "rutas_permitidas": [
+    "citas.py",
+    "tests/test_citas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/"
+  ],
+  "criterios_aceptacion": [
+    "reservar lanza ValueError si el veterinario ya tiene esa hora ocupada.",
+    "Una hora con una cita cancelada sí se puede reservar."
+  ]
+}

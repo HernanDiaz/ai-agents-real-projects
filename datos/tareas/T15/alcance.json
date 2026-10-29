@@ -1,0 +1,21 @@
+{
+  "tarea": "T15",
+  "objetivo": "Envío gratis por encima de 60 € en la península y de 150 € en Baleares.",
+  "rutas_permitidas": [
+    "config.py",
+    "envios.py",
+    "tests/test_envios.py",
+    "docs/condiciones_generales.md"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "pedidos.py",
+    "devoluciones.py"
+  ],
+  "criterios_aceptacion": [
+    "Península: 60 € pagan envío; 60,01 € no.",
+    "Baleares: gratis por encima de 150 €; Canarias paga siempre.",
+    "Las condiciones generales dicen 60 y 150 euros.",
+    "Las pruebas visibles de la regla antigua se actualizan."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tarea": "T27",
+  "objetivo": "Una función con los clientes que más pedidos válidos han hecho.",
+  "rutas_permitidas": [
+    "informes.py",
+    "tests/test_informes.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py",
+    "clientes.py"
+  ],
+  "criterios_aceptacion": [
+    "Cuenta solo los pedidos que no están cancelados.",
+    "Ordena de más a menos pedidos y, en los empates, por identificador.",
+    "Devuelve como mucho n tuplas (cliente, número)."
+  ]
+}

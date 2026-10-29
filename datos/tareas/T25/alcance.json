@@ -1,0 +1,19 @@
+{
+  "tarea": "T25",
+  "objetivo": "Que la entrega a Canarias se estime en 6-9 días laborables.",
+  "rutas_permitidas": [
+    "config.py",
+    "envios.py",
+    "tests/test_envios.py",
+    "docs/condiciones_generales.md"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "fecha_entrega_estimada para Canarias usa 6 y 9 días laborables.",
+    "La península y Baleares no cambian.",
+    "Las condiciones generales dicen 6-9 días laborables para Canarias."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tarea": "T17",
+  "objetivo": "Que la revisión básica cueste 39 € en todo el programa.",
+  "rutas_permitidas": [
+    "config.py",
+    "presupuestos.py",
+    "avisos.py",
+    "tests/test_presupuestos.py",
+    "tests/test_avisos.py",
+    "docs/condiciones_generales.md"
+  ],
+  "rutas_prohibidas": [
+    "datos/"
+  ],
+  "criterios_aceptacion": [
+    "precio_revision devuelve 39 cuando no es gratuita.",
+    "El recordatorio de revisión dice 39 €, no 35.",
+    "Las condiciones generales dicen 39 euros."
+  ]
+}

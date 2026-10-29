@@ -1,0 +1,18 @@
+{
+  "tarea": "T19",
+  "objetivo": "Que devoluciones.py lea de config.py el plazo, los kilómetros y los prefijos.",
+  "rutas_permitidas": [
+    "devoluciones.py",
+    "config.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "tests/"
+  ],
+  "criterios_aceptacion": [
+    "devoluciones.py no contiene los números 30 ni 10 ni la lista de prefijos.",
+    "Los mensajes al cliente muestran los valores de config.py.",
+    "El comportamiento no cambia: las pruebas visibles pasan sin tocarlas."
+  ]
+}

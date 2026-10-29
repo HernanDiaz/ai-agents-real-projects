@@ -1,0 +1,8 @@
+{
+  "id": "T23",
+  "titulo": "Unidades totales de una referencia",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Función nueva; hay que tener en cuenta las referencias que no existen."
+}

@@ -1,0 +1,18 @@
+{
+  "tarea": "T24",
+  "objetivo": "Que reponer rechace las cantidades de cero o negativas.",
+  "rutas_permitidas": [
+    "existencias.py",
+    "tests/test_existencias.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "devoluciones.py"
+  ],
+  "criterios_aceptacion": [
+    "reponer con 0 o con una cantidad negativa lanza ValueError.",
+    "Si lanza el error, el almacén no cambia (ni se crea la referencia).",
+    "Las reposiciones positivas funcionan como antes."
+  ]
+}

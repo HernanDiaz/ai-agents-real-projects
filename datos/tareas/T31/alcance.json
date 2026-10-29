@@ -1,0 +1,20 @@
+{
+  "tarea": "T31",
+  "objetivo": "Dar de baja a un cliente que lo pide.",
+  "rutas_permitidas": [
+    "bajas.py",
+    "tests/test_bajas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "clientes.py",
+    "pedidos.py",
+    "facturas.py"
+  ],
+  "criterios_aceptacion": [
+    "Tras la baja, el nombre y el correo del cliente ya no están en clientes.",
+    "El cliente sigue en clientes, con su ciudad, y sin publicidad.",
+    "Con un pedido en curso no cambia nada y devuelve «pendiente»; si no, «hecho»."
+  ]
+}

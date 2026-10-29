@@ -1,0 +1,15 @@
+{
+  "tarea": "I02",
+  "objetivo": "Que una vacuna que vence hoy cuente como vencida.",
+  "rutas_permitidas": [
+    "vacunas.py",
+    "tests/test_vacunas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/"
+  ],
+  "criterios_aceptacion": [
+    "vencidas incluye las vacunas con fecha próxima igual a hoy.",
+    "proximas sigue sin incluirlas."
+  ]
+}

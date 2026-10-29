@@ -1,0 +1,8 @@
+{
+  "id": "T16",
+  "titulo": "Devoluciones de Navidad",
+  "tipo": "regla",
+  "dificultad": 3,
+  "dos_sesiones": true,
+  "nota": "El cálculo de la fecha límite está duplicado en avisos.py: si solo se cambia devoluciones.py, el aviso miente."
+}

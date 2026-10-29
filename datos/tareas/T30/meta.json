@@ -1,0 +1,8 @@
+{
+  "id": "T30",
+  "titulo": "Aviso de pago pendiente",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Aviso nuevo siguiendo el estilo de los demás; la fecha límite sale de config.DIAS_PAGO_TRANSFERENCIA."
+}

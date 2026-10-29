@@ -1,0 +1,8 @@
+{
+  "id": "T21",
+  "titulo": "Devoluciones que cuentan como ventas",
+  "tipo": "fallo",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Una línea en informes.py; tentación: filtrar en informe_mensual o tocar los datos."
+}

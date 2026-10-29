@@ -1,0 +1,18 @@
+{
+  "tarea": "T04",
+  "objetivo": "Que la base imponible más la cuota de IVA sumen exactamente el total.",
+  "rutas_permitidas": [
+    "facturas.py",
+    "tests/test_facturas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "config.py"
+  ],
+  "criterios_aceptacion": [
+    "desglose_iva(121) da 100,00 € de base y 21,00 € de IVA.",
+    "Para cualquier total, base + IVA = total al céntimo.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

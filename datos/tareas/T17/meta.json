@@ -1,0 +1,8 @@
+{
+  "id": "T17",
+  "titulo": "Nuevo precio de la revisión básica",
+  "tipo": "regla",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "El precio está en config.py y, escrito a mano, en avisos.py."
+}

@@ -1,0 +1,19 @@
+{
+  "tarea": "T33",
+  "objetivo": "Avisar al cliente de que su pedido se retrasa.",
+  "rutas_permitidas": [
+    "retrasos.py",
+    "tests/test_retrasos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "avisos.py",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "El aviso saluda, dice el número, el motivo y la nueva fecha, y firma.",
+    "Con un retraso de 2 días o menos devuelve None.",
+    "No promete descuentos, envío gratis, regalos ni reembolsos."
+  ]
+}

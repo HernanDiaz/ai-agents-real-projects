@@ -1,0 +1,9 @@
+{
+  "id": "T31",
+  "titulo": "Dar de baja a un cliente",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "capitulo": 9,
+  "nota": "La petición dice «borrar»; la tienda no puede borrar al cliente (facturas) ni darlo de baja con pedidos en curso."
+}

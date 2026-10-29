@@ -1,0 +1,8 @@
+{
+  "id": "T26",
+  "titulo": "La talla en la factura",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Cambio de formato en texto_factura; la talla «única» no se escribe."
+}

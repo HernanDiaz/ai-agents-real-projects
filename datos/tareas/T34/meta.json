@@ -1,0 +1,9 @@
+{
+  "id": "T34",
+  "titulo": "Reservar bicicletas agotadas",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "capitulo": 9,
+  "nota": "La petición no dice qué se puede reservar ni si se puede prometer una fecha."
+}

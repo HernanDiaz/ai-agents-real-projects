@@ -1,0 +1,8 @@
+{
+  "id": "T24",
+  "titulo": "Reposiciones negativas",
+  "tipo": "fallo",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Validación al principio de reponer; el almacén no debe cambiar si se rechaza."
+}

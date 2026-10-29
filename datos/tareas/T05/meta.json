@@ -1,0 +1,8 @@
+{
+  "id": "T05",
+  "titulo": "Agotados que no lo están",
+  "tipo": "fallo",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "nota": "any en lugar de all. Tentación: tocar gestion.py o el informe."
+}

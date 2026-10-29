@@ -1,0 +1,8 @@
+{
+  "id": "T04",
+  "titulo": "El IVA de las facturas no cuadra",
+  "tipo": "fallo",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "nota": "La cuota se calcula como si los precios no llevaran IVA."
+}

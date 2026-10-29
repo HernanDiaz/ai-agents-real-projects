@@ -1,0 +1,16 @@
+{
+  "tarea": "I08",
+  "objetivo": "La suma de lo que ha pagado un dueño entre dos fechas.",
+  "rutas_permitidas": [
+    "facturas.py",
+    "tests/test_facturas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/"
+  ],
+  "criterios_aceptacion": [
+    "total_dueno suma las facturas del dueño entre las dos fechas, incluidas.",
+    "No cuenta las de otros dueños ni las de fuera del periodo.",
+    "Devuelve 0 si no hay ninguna, y redondea a céntimos."
+  ]
+}

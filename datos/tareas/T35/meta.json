@@ -1,0 +1,9 @@
+{
+  "id": "T35",
+  "titulo": "Descuento para los clientes que repiten",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "capitulo": 9,
+  "nota": "La petición no dice cuánto, a quién ni con qué límite: son decisiones de dirección."
+}

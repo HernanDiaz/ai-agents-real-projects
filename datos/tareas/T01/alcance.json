@@ -1,0 +1,20 @@
+{
+  "tarea": "T01",
+  "objetivo": "Que el envío gratis por pedidos de más de 50 € solo se aplique en la península.",
+  "rutas_permitidas": [
+    "envios.py",
+    "config.py",
+    "tests/test_envios.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py",
+    "devoluciones.py"
+  ],
+  "criterios_aceptacion": [
+    "Baleares y Canarias pagan su tarifa aunque el pedido pase de 50 €.",
+    "En la península sigue siendo gratis por encima de 50 €.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

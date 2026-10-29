@@ -1,0 +1,8 @@
+{
+  "id": "T25",
+  "titulo": "Nuevo plazo de entrega a Canarias",
+  "tipo": "regla",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "La regla está en config.py y, escrita, en las condiciones generales."
+}

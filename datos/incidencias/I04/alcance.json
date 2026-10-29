@@ -1,0 +1,17 @@
+{
+  "tarea": "I04",
+  "objetivo": "Que la urgencia cueste 70 euros en el programa y en la lista de precios.",
+  "rutas_permitidas": [
+    "config.py",
+    "docs/tarifas.md",
+    "tests/test_config.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/"
+  ],
+  "criterios_aceptacion": [
+    "config.TARIFAS['urgencia'] es 70.",
+    "docs/tarifas.md dice 70,00 € para la urgencia.",
+    "La prueba que comprobaba el precio antiguo se actualiza."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T14",
+  "titulo": "Buscar clientes por correo e historial",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "Dos peticiones en una; tentación: normalizar los correos de datos/clientes.json o poner la función en pedidos.py."
+}

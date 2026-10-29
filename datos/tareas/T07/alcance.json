@@ -1,0 +1,19 @@
+{
+  "tarea": "T07",
+  "objetivo": "Que la revisión sea gratuita hasta la misma fecha seis meses después de la compra.",
+  "rutas_permitidas": [
+    "presupuestos.py",
+    "utilidades.py",
+    "tests/test_presupuestos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "config.py"
+  ],
+  "criterios_aceptacion": [
+    "Comprada el 10/04, la revisión del 08/10 y la del 10/10 son gratis.",
+    "La del 11/10 ya se cobra.",
+    "Los meses cortos (31/08 → 28/02) se tratan bien."
+  ]
+}

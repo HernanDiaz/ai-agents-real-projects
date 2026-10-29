@@ -1,0 +1,16 @@
+{
+  "tarea": "I05",
+  "objetivo": "Un recordatorio de cita para los dueños.",
+  "rutas_permitidas": [
+    "avisos.py",
+    "tests/test_avisos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "citas.py"
+  ],
+  "criterios_aceptacion": [
+    "recordatorio_cita saluda al dueño y firma como el recordatorio de vacunas.",
+    "Dice el nombre de la mascota, el día con formato dd/mm/aaaa y la hora."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T01",
+  "titulo": "Envío gratis a las islas",
+  "tipo": "fallo",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "nota": "Fallo de lógica en envios.gastos_envio: el umbral no mira la zona."
+}

@@ -1,0 +1,21 @@
+{
+  "tarea": "T34",
+  "objetivo": "Que se puedan reservar las bicicletas agotadas.",
+  "rutas_permitidas": [
+    "reservas.py",
+    "tests/test_reservas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "existencias.py",
+    "pedidos.py",
+    "config.py"
+  ],
+  "criterios_aceptacion": [
+    "Una bicicleta agotada con reposición confirmada se admite, con su fecha.",
+    "Si quedan unidades en la talla, no se admite.",
+    "Sin reposición no se admite; con reposición sin confirmar, sin fecha.",
+    "Los accesorios no se admiten."
+  ]
+}

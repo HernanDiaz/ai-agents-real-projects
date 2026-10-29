@@ -1,0 +1,8 @@
+{
+  "id": "T03",
+  "titulo": "Reembolso del envío en devoluciones parciales",
+  "tipo": "fallo",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "nota": "El código compara el número de líneas, no las unidades."
+}

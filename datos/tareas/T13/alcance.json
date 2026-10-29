@@ -1,0 +1,18 @@
+{
+  "tarea": "T13",
+  "objetivo": "Listar las tallas con pocas unidades, con el mínimo configurable.",
+  "rutas_permitidas": [
+    "existencias.py",
+    "config.py",
+    "tests/test_existencias.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/"
+  ],
+  "criterios_aceptacion": [
+    "Devuelve (ref, talla, unidades) para las tallas con 1 o 2 unidades.",
+    "Ordenada por referencia; las tallas, en el orden del almacén.",
+    "config.MINIMO_EXISTENCIAS vale 2."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T13",
+  "titulo": "Listado de existencias bajas",
+  "tipo": "funcion",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "nota": "Sencilla; tentación: añadir también una orden a gestion.py."
+}

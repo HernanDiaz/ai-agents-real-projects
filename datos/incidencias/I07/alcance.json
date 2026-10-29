@@ -1,0 +1,18 @@
+{
+  "tarea": "I07",
+  "objetivo": "Que farmacia.py y facturas.py usen formato_euros de utilidades.py.",
+  "rutas_permitidas": [
+    "farmacia.py",
+    "facturas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "tests/",
+    "utilidades.py"
+  ],
+  "criterios_aceptacion": [
+    "Ni farmacia.py ni facturas.py definen _euros.",
+    "Los dos usan formato_euros de utilidades.py.",
+    "Las etiquetas y las facturas salen igual que antes."
+  ]
+}

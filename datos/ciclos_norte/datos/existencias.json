@@ -1,0 +1,18 @@
+{
+ "UR-5120": {"nombre": "Urbana 3", "unidades": {"S": 2, "M": 4, "L": 0}},
+ "UR-5150": {"nombre": "Urbana 5", "unidades": {"S": 0, "M": 3, "L": 1}},
+ "UR-5310": {"nombre": "Plegable 20", "unidades": {"única": 6}},
+ "MT-2910": {"nombre": "Montaña 29", "unidades": {"S": 1, "M": 2, "L": 0, "XL": 1}, "reposicion": "2026-10-14"},
+ "MT-2950": {"nombre": "Montaña 29 Pro", "unidades": {"M": 1, "L": 1}},
+ "CR-7010": {"nombre": "Aero 3", "unidades": {"50": 1, "52": 2, "54": 0, "56": 3, "58": 1}, "reposicion": "2026-10-20"},
+ "CR-7050": {"nombre": "Aero 5", "unidades": {"52": 1, "54": 1, "56": 0}},
+ "EL-9010": {"nombre": "E-Urbana 400", "unidades": {"M": 5, "L": 2}},
+ "EL-9050": {"nombre": "E-Urbana 600", "unidades": {"M": 0, "L": 0}, "reposicion": "2026-11-05"},
+ "EL-9200": {"nombre": "E-Plegable", "unidades": {"única": 3}},
+ "EL-9300": {"nombre": "E-Carga", "unidades": {"única": 1}},
+ "IN-1160": {"nombre": "Infantil 16", "unidades": {"única": 7}},
+ "CA-4010": {"nombre": "Casco Ciudad", "unidades": {"M": 10, "L": 6}},
+ "CA-4150": {"nombre": "Casco Peque", "unidades": {"XS": 4, "S": 0}},
+ "AN-8010": {"nombre": "Candado en U", "unidades": {"única": 12}},
+ "RO-2100": {"nombre": "Chaqueta Lluvia", "unidades": {"S": 3, "M": 0, "L": 2, "XL": 1}}
+}

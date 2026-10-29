@@ -1,0 +1,9 @@
+{
+  "id": "T33",
+  "titulo": "Avisar de un pedido retrasado",
+  "tipo": "funcion",
+  "dificultad": 2,
+  "dos_sesiones": false,
+  "capitulo": 9,
+  "nota": "La petición no dice cuándo avisar ni qué no se puede prometer."
+}

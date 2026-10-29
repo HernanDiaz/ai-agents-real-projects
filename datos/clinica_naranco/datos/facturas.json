@@ -1,0 +1,797 @@
+[
+ {
+  "id": "F-0001",
+  "dueno": "D-001",
+  "fecha": "2026-10-16",
+  "lineas": [
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   }
+  ],
+  "total": 106.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0002",
+  "dueno": "D-001",
+  "fecha": "2026-07-29",
+  "lineas": [
+   {
+    "concepto": "desparasitación",
+    "importe": 15.0
+   }
+  ],
+  "total": 15.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0003",
+  "dueno": "D-002",
+  "fecha": "2026-09-21",
+  "lineas": [
+   {
+    "concepto": "cura",
+    "importe": 22.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 85.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0004",
+  "dueno": "D-003",
+  "fecha": "2026-09-14",
+  "lineas": [
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   },
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   },
+   {
+    "concepto": "vacuna leishmaniosis",
+    "importe": 45.0
+   }
+  ],
+  "total": 121.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0005",
+  "dueno": "D-003",
+  "fecha": "2026-09-27",
+  "lineas": [
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   }
+  ],
+  "total": 66.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0006",
+  "dueno": "D-004",
+  "fecha": "2026-06-09",
+  "lineas": [
+   {
+    "concepto": "cura",
+    "importe": 22.0
+   },
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 58.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0007",
+  "dueno": "D-004",
+  "fecha": "2026-06-08",
+  "lineas": [
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   }
+  ],
+  "total": 103.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0008",
+  "dueno": "D-005",
+  "fecha": "2026-09-28",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   },
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   }
+  ],
+  "total": 103.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0009",
+  "dueno": "D-005",
+  "fecha": "2026-07-28",
+  "lineas": [
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   },
+   {
+    "concepto": "desparasitación",
+    "importe": 15.0
+   },
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   }
+  ],
+  "total": 116.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0010",
+  "dueno": "D-005",
+  "fecha": "2026-06-21",
+  "lineas": [
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   },
+   {
+    "concepto": "cura",
+    "importe": 22.0
+   }
+  ],
+  "total": 97.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0011",
+  "dueno": "D-006",
+  "fecha": "2026-10-12",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   }
+  ],
+  "total": 65.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0012",
+  "dueno": "D-006",
+  "fecha": "2026-10-05",
+  "lineas": [
+   {
+    "concepto": "cura",
+    "importe": 22.0
+   }
+  ],
+  "total": 22.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0013",
+  "dueno": "D-007",
+  "fecha": "2026-10-12",
+  "lineas": [
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   }
+  ],
+  "total": 103.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0014",
+  "dueno": "D-007",
+  "fecha": "2026-10-06",
+  "lineas": [
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 35.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0015",
+  "dueno": "D-008",
+  "fecha": "2026-09-14",
+  "lineas": [
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 36.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0016",
+  "dueno": "D-009",
+  "fecha": "2026-06-12",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   },
+   {
+    "concepto": "cura",
+    "importe": 22.0
+   },
+   {
+    "concepto": "limpieza dental",
+    "importe": 120.0
+   }
+  ],
+  "total": 207.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0017",
+  "dueno": "D-010",
+  "fecha": "2026-07-02",
+  "lineas": [
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "vacuna leishmaniosis",
+    "importe": 45.0
+   },
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   }
+  ],
+  "total": 111.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0018",
+  "dueno": "D-010",
+  "fecha": "2026-06-29",
+  "lineas": [
+   {
+    "concepto": "vacuna rabia",
+    "importe": 30.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   }
+  ],
+  "total": 58.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0019",
+  "dueno": "D-011",
+  "fecha": "2026-08-12",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   }
+  ],
+  "total": 65.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0020",
+  "dueno": "D-011",
+  "fecha": "2026-08-14",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   }
+  ],
+  "total": 65.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0021",
+  "dueno": "D-011",
+  "fecha": "2026-06-07",
+  "lineas": [
+   {
+    "concepto": "vacuna rabia",
+    "importe": 30.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 55.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0022",
+  "dueno": "D-012",
+  "fecha": "2026-09-01",
+  "lineas": [
+   {
+    "concepto": "vacuna leishmaniosis",
+    "importe": 45.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 70.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0023",
+  "dueno": "D-013",
+  "fecha": "2026-07-24",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   },
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 126.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0024",
+  "dueno": "D-014",
+  "fecha": "2026-10-04",
+  "lineas": [
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 65.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0025",
+  "dueno": "D-014",
+  "fecha": "2026-07-01",
+  "lineas": [
+   {
+    "concepto": "vacuna rabia",
+    "importe": 30.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 95.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0026",
+  "dueno": "D-014",
+  "fecha": "2026-08-02",
+  "lineas": [
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   },
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 71.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0027",
+  "dueno": "D-015",
+  "fecha": "2026-06-26",
+  "lineas": [
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 64.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0028",
+  "dueno": "D-015",
+  "fecha": "2026-08-22",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   },
+   {
+    "concepto": "vacuna rabia",
+    "importe": 30.0
+   }
+  ],
+  "total": 95.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0029",
+  "dueno": "D-015",
+  "fecha": "2026-06-06",
+  "lineas": [
+   {
+    "concepto": "limpieza dental",
+    "importe": 120.0
+   },
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   },
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 221.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0030",
+  "dueno": "D-016",
+  "fecha": "2026-10-10",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   }
+  ],
+  "total": 65.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0031",
+  "dueno": "D-017",
+  "fecha": "2026-09-13",
+  "lineas": [
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   }
+  ],
+  "total": 66.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0032",
+  "dueno": "D-018",
+  "fecha": "2026-10-08",
+  "lineas": [
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 25.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0033",
+  "dueno": "D-018",
+  "fecha": "2026-10-17",
+  "lineas": [
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 101.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0034",
+  "dueno": "D-018",
+  "fecha": "2026-09-06",
+  "lineas": [
+   {
+    "concepto": "cura",
+    "importe": 22.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   }
+  ],
+  "total": 62.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0035",
+  "dueno": "D-019",
+  "fecha": "2026-09-21",
+  "lineas": [
+   {
+    "concepto": "limpieza dental",
+    "importe": 120.0
+   },
+   {
+    "concepto": "desparasitación",
+    "importe": 15.0
+   },
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   }
+  ],
+  "total": 173.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0036",
+  "dueno": "D-020",
+  "fecha": "2026-06-26",
+  "lineas": [
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 35.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0037",
+  "dueno": "D-020",
+  "fecha": "2026-07-15",
+  "lineas": [
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 36.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0038",
+  "dueno": "D-020",
+  "fecha": "2026-07-24",
+  "lineas": [
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   },
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 63.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0039",
+  "dueno": "D-021",
+  "fecha": "2026-08-14",
+  "lineas": [
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   },
+   {
+    "concepto": "desparasitación",
+    "importe": 15.0
+   }
+  ],
+  "total": 55.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0040",
+  "dueno": "D-021",
+  "fecha": "2026-08-11",
+  "lineas": [
+   {
+    "concepto": "análisis de sangre",
+    "importe": 65.0
+   },
+   {
+    "concepto": "vacuna leucemia felina",
+    "importe": 40.0
+   },
+   {
+    "concepto": "vacuna mixomatosis",
+    "importe": 25.0
+   }
+  ],
+  "total": 130.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0041",
+  "dueno": "D-022",
+  "fecha": "2026-07-18",
+  "lineas": [
+   {
+    "concepto": "vacuna polivalente",
+    "importe": 38.0
+   }
+  ],
+  "total": 38.0,
+  "pagada": true
+ },
+ {
+  "id": "F-0042",
+  "dueno": "D-022",
+  "fecha": "2026-09-10",
+  "lineas": [
+   {
+    "concepto": "consulta",
+    "importe": 35.0
+   }
+  ],
+  "total": 35.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0043",
+  "dueno": "D-022",
+  "fecha": "2026-06-14",
+  "lineas": [
+   {
+    "concepto": "desparasitación",
+    "importe": 15.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   }
+  ],
+  "total": 43.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0044",
+  "dueno": "D-023",
+  "fecha": "2026-07-14",
+  "lineas": [
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 36.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0045",
+  "dueno": "D-024",
+  "fecha": "2026-07-26",
+  "lineas": [
+   {
+    "concepto": "vacuna trivalente felina",
+    "importe": 36.0
+   }
+  ],
+  "total": 36.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0046",
+  "dueno": "D-025",
+  "fecha": "2026-10-15",
+  "lineas": [
+   {
+    "concepto": "limpieza dental",
+    "importe": 120.0
+   },
+   {
+    "concepto": "vacuna hemorrágica vírica",
+    "importe": 28.0
+   }
+  ],
+  "total": 148.0,
+  "pagada": false
+ },
+ {
+  "id": "F-0047",
+  "dueno": "D-026",
+  "fecha": "2026-08-19",
+  "lineas": [
+   {
+    "concepto": "vacuna rabia",
+    "importe": 30.0
+   }
+  ],
+  "total": 30.0,
+  "pagada": true
+ }
+]

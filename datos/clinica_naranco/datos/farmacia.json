@@ -1,0 +1,74 @@
+{
+ "meloxicam": {
+  "presentacion": "suspensión oral 1,5 mg/ml",
+  "dosis_mg_kg": 0.1,
+  "especies": [
+   "perro",
+   "gato"
+  ],
+  "existencias": 14,
+  "precio": 18.5
+ },
+ "amoxicilina": {
+  "presentacion": "comprimidos de 50 mg",
+  "dosis_mg_kg": 10,
+  "especies": [
+   "perro",
+   "gato",
+   "conejo"
+  ],
+  "existencias": 40,
+  "precio": 9.9
+ },
+ "doxiciclina": {
+  "presentacion": "comprimidos de 100 mg",
+  "dosis_mg_kg": 5,
+  "especies": [
+   "perro",
+   "gato"
+  ],
+  "existencias": 0,
+  "precio": 14.2,
+  "reposicion": "2026-10-27"
+ },
+ "maropitant": {
+  "presentacion": "comprimidos de 16 mg",
+  "dosis_mg_kg": 2,
+  "especies": [
+   "perro"
+  ],
+  "existencias": 22,
+  "precio": 21.0
+ },
+ "prazicuantel": {
+  "presentacion": "comprimidos de 50 mg",
+  "dosis_mg_kg": 5,
+  "especies": [
+   "perro",
+   "gato"
+  ],
+  "existencias": 60,
+  "precio": 6.5
+ },
+ "enrofloxacino": {
+  "presentacion": "comprimidos de 15 mg",
+  "dosis_mg_kg": 5,
+  "especies": [
+   "perro",
+   "gato",
+   "conejo"
+  ],
+  "existencias": 8,
+  "precio": 12.0
+ },
+ "gabapentina": {
+  "presentacion": "cápsulas de 100 mg",
+  "dosis_mg_kg": 10,
+  "especies": [
+   "perro",
+   "gato"
+  ],
+  "existencias": 30,
+  "precio": 16.0
+ }
+}

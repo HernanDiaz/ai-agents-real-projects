@@ -1,0 +1,8 @@
+{
+  "id": "T19",
+  "titulo": "Sin números mágicos en devoluciones",
+  "tipo": "refactorizacion",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "nota": "Fácil; los mensajes de texto también llevan los números escritos."
+}

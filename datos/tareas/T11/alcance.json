@@ -1,0 +1,18 @@
+{
+  "tarea": "T11",
+  "objetivo": "Un aviso para los pedidos retrasados, con el motivo y la nueva fecha.",
+  "rutas_permitidas": [
+    "avisos.py",
+    "tests/test_avisos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "aviso_retraso existe en avisos.py.",
+    "El texto coincide con el ejemplo, con el saludo y la firma de siempre.",
+    "El motivo y la fecha salen del pedido."
+  ]
+}

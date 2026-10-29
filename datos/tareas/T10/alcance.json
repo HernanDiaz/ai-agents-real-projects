@@ -1,0 +1,21 @@
+{
+  "tarea": "T10",
+  "objetivo": "Reconocer Portugal y Andorra como zonas de envío, con su tarifa y su plazo.",
+  "rutas_permitidas": [
+    "envios.py",
+    "config.py",
+    "tests/test_envios.py",
+    "docs/condiciones_generales.md"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "devoluciones.py",
+    "pedidos.py"
+  ],
+  "criterios_aceptacion": [
+    "4000-123 es Portugal y AD500 es Andorra.",
+    "Portugal paga 11,95 € y Andorra 12,95 €, sea cual sea el importe.",
+    "Fechas de entrega: 4-6 días laborables (Portugal), 3-5 (Andorra).",
+    "España no cambia."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tarea": "T29",
+  "objetivo": "Que el resumen de un pedido muestre los gastos de envío si los hay.",
+  "rutas_permitidas": [
+    "pedidos.py",
+    "tests/test_pedidos.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "gestion.py"
+  ],
+  "criterios_aceptacion": [
+    "Con envío, el resumen acaba en «(envío X €)» tras el importe.",
+    "Sin envío, o si el pedido no tiene ese dato, el resumen no cambia.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}

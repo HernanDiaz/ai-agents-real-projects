@@ -1,0 +1,21 @@
+{
+  "tarea": "T35",
+  "objetivo": "Un descuento para los clientes que repiten.",
+  "rutas_permitidas": [
+    "fidelidad.py",
+    "tests/test_fidelidad.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "pedidos.py",
+    "facturas.py",
+    "clientes.py"
+  ],
+  "criterios_aceptacion": [
+    "Un cliente con muchos pedidos entregados recientes tiene descuento; uno nuevo, no.",
+    "Es el 5 % en compras de más de 100 euros, con un tope de 25 euros.",
+    "Solo cuentan los pedidos entregados en los últimos 365 días.",
+    "Con una devolución en curso, el descuento es 0."
+  ]
+}

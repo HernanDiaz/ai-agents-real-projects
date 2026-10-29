@@ -1,0 +1,16 @@
+{
+  "tarea": "I01",
+  "objetivo": "Que no haya huecos libres los días sin consulta.",
+  "rutas_permitidas": [
+    "citas.py",
+    "tests/test_citas.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "config.py"
+  ],
+  "criterios_aceptacion": [
+    "huecos_libres no devuelve ninguna hora en sábado ni en domingo.",
+    "De lunes a viernes sigue devolviendo las horas libres."
+  ]
+}

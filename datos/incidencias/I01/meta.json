@@ -1,0 +1,8 @@
+{
+  "id": "I01",
+  "titulo": "Citas en fin de semana",
+  "tipo": "fallo",
+  "dificultad": 1,
+  "dos_sesiones": false,
+  "repositorio": "clinica_naranco"
+}

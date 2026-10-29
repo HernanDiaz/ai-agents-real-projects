@@ -1,0 +1,18 @@
+{
+  "tarea": "T05",
+  "objetivo": "Que agotados() solo devuelva referencias sin unidades en ninguna talla.",
+  "rutas_permitidas": [
+    "existencias.py",
+    "tests/test_existencias.py"
+  ],
+  "rutas_prohibidas": [
+    "datos/",
+    "docs/",
+    "gestion.py"
+  ],
+  "criterios_aceptacion": [
+    "La Urbana 3 no aparece como agotada.",
+    "La E-Urbana 600, sin unidades en ninguna talla, sí aparece.",
+    "Las pruebas visibles siguen pasando."
+  ]
+}
