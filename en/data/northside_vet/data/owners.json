@@ -1,0 +1,158 @@
+{
+ "C-001": {
+  "name": "Martha Fisher",
+  "phone": "(503) 555-0201",
+  "email": "martha11@example.com",
+  "notify_by": "email"
+ },
+ "C-002": {
+  "name": "Peter Adams",
+  "phone": "(503) 555-0202",
+  "email": "peter5@example.com",
+  "notify_by": "email"
+ },
+ "C-003": {
+  "name": "Carol Roberts",
+  "phone": "(503) 555-0203",
+  "email": "carol85@example.com",
+  "notify_by": "SMS"
+ },
+ "C-004": {
+  "name": "James Grant",
+  "phone": "(503) 555-0204",
+  "email": "james98@example.com",
+  "notify_by": "SMS"
+ },
+ "C-005": {
+  "name": "Ellen Meyer",
+  "phone": "(503) 555-0205",
+  "email": "ellen41@example.com",
+  "notify_by": "email"
+ },
+ "C-006": {
+  "name": "Lewis Martin",
+  "phone": "(503) 555-0206",
+  "email": "lewis63@example.com",
+  "notify_by": "email"
+ },
+ "C-007": {
+  "name": "Sophia Lowe",
+  "phone": "(503) 555-0207",
+  "email": "sophia69@example.com",
+  "notify_by": "SMS"
+ },
+ "C-008": {
+  "name": "Derek Gordon",
+  "phone": "(503) 555-0208",
+  "email": "derek25@example.com",
+  "notify_by": "SMS"
+ },
+ "C-009": {
+  "name": "Paula Ingram",
+  "phone": "(503) 555-0209",
+  "email": "paula90@example.com",
+  "notify_by": "SMS"
+ },
+ "C-010": {
+  "name": "Andrew Sutton",
+  "phone": "(503) 555-0210",
+  "email": "andrew85@example.com",
+  "notify_by": "SMS"
+ },
+ "C-011": {
+  "name": "Lucy Dixon",
+  "phone": "(503) 555-0211",
+  "email": "lucy55@example.com",
+  "notify_by": "email"
+ },
+ "C-012": {
+  "name": "Ralph Fisher",
+  "phone": "(503) 555-0212",
+  "email": "ralph47@example.com",
+  "notify_by": "email"
+ },
+ "C-013": {
+  "name": "Nora Blake",
+  "phone": "(503) 555-0213",
+  "email": "nora57@example.com",
+  "notify_by": "SMS"
+ },
+ "C-014": {
+  "name": "Oscar Price",
+  "phone": "(503) 555-0214",
+  "email": "oscar97@example.com",
+  "notify_by": "email"
+ },
+ "C-015": {
+  "name": "Irene Carter",
+  "phone": "(503) 555-0215",
+  "email": "irene38@example.com",
+  "notify_by": "email"
+ },
+ "C-016": {
+  "name": "Hugh Vaughn",
+  "phone": "(503) 555-0216",
+  "email": "hugh76@example.com",
+  "notify_by": "email"
+ },
+ "C-017": {
+  "name": "Beatrice Russell",
+  "phone": "(503) 555-0217",
+  "email": "beatrice47@example.com",
+  "notify_by": "email"
+ },
+ "C-018": {
+  "name": "Mark Cooper",
+  "phone": "(503) 555-0218",
+  "email": "mark66@example.com",
+  "notify_by": "SMS"
+ },
+ "C-019": {
+  "name": "Amber Lane",
+  "phone": "(503) 555-0219",
+  "email": "amber90@example.com",
+  "notify_by": "SMS"
+ },
+ "C-020": {
+  "name": "Sean Parker",
+  "phone": "(503) 555-0220",
+  "email": "sean82@example.com",
+  "notify_by": "email"
+ },
+ "C-021": {
+  "name": "Claire Miller",
+  "phone": "(503) 555-0221",
+  "email": "claire78@example.com",
+  "notify_by": "email"
+ },
+ "C-022": {
+  "name": "Evan Sloan",
+  "phone": "(503) 555-0222",
+  "email": "evan46@example.com",
+  "notify_by": "SMS"
+ },
+ "C-023": {
+  "name": "Rose Vance",
+  "phone": "(503) 555-0223",
+  "email": "rose12@example.com",
+  "notify_by": "SMS"
+ },
+ "C-024": {
+  "name": "Thomas Allen",
+  "phone": "(503) 555-0224",
+  "email": "thomas26@example.com",
+  "notify_by": "email"
+ },
+ "C-025": {
+  "name": "Laura Green",
+  "phone": "(503) 555-0225",
+  "email": "laura85@example.com",
+  "notify_by": "email"
+ },
+ "C-026": {
+  "name": "David Palmer",
+  "phone": "(503) 555-0226",
+  "email": "david93@example.com",
+  "notify_by": "email"
+ }
+}

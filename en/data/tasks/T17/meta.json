@@ -1,0 +1,8 @@
+{
+  "id": "T17",
+  "title": "New price for the basic tune-up",
+  "type": "rule",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "The price is in config.py and, written by hand, in notices.py."
+}

@@ -1,0 +1,15 @@
+{
+  "task": "I06",
+  "goal": "A time the vet already has taken cannot be booked.",
+  "allowed_paths": [
+    "appointments.py",
+    "tests/test_appointments.py"
+  ],
+  "forbidden_paths": [
+    "data/"
+  ],
+  "acceptance_criteria": [
+    "book raises ValueError if the vet already has that time taken.",
+    "A time with a canceled appointment can be booked."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T23",
+  "title": "Total units of a product",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "A new function; you have to take into account the references that don't exist."
+}

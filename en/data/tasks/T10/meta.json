@@ -1,0 +1,8 @@
+{
+  "id": "T10",
+  "title": "Shipping to Canada and Alaska",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "Ambiguous: what about returns from Canada? Not requested; they must not be touched."
+}

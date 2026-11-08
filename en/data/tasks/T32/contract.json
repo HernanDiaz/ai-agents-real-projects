@@ -1,0 +1,20 @@
+{
+  "task": "T32",
+  "goal": "The repair estimate must say whether approval has to be asked for.",
+  "allowed_paths": [
+    "approvals.py",
+    "tests/test_approvals.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "estimates.py",
+    "config.py",
+    "invoices.py"
+  ],
+  "acceptance_criteria": [
+    "approval is True on an expensive estimate and False on a cheap one.",
+    "The threshold is $150: $150.01 asks for approval and $150 doesn't.",
+    "With a part without a price, the total is None and approval is True."
+  ]
+}

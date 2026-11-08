@@ -1,0 +1,18 @@
+{
+  "task": "T23",
+  "goal": "A function with the units of a reference, adding up all the sizes.",
+  "allowed_paths": [
+    "stock.py",
+    "tests/test_stock.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "manage.py"
+  ],
+  "acceptance_criteria": [
+    "total_units adds up the units of all the sizes.",
+    "It returns 0 if the reference does not exist.",
+    "The visible tests still pass."
+  ]
+}

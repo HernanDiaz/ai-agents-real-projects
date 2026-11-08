@@ -1,0 +1,20 @@
+{
+  "task": "T31",
+  "goal": "Remove a customer who asks for it.",
+  "allowed_paths": [
+    "removals.py",
+    "tests/test_removals.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "customers.py",
+    "orders.py",
+    "invoices.py"
+  ],
+  "acceptance_criteria": [
+    "After the removal, the customer's name and email are no longer in customers.",
+    "The customer is still in customers, with their city, and without marketing.",
+    "With an order in progress nothing changes and it returns \"pending\"; otherwise, \"done\"."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T30",
+  "title": "Payment-pending notice",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "A new notice following the style of the others; the deadline comes from config.TRANSFER_PAYMENT_DAYS."
+}

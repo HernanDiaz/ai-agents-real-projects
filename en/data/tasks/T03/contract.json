@@ -1,0 +1,19 @@
+{
+  "task": "T03",
+  "goal": "Refund the shipping cost only when every unit is returned.",
+  "allowed_paths": [
+    "returns.py",
+    "tests/test_returns.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "shipping.py",
+    "config.py"
+  ],
+  "acceptance_criteria": [
+    "Returning one of two units does not refund the shipping.",
+    "Returning every unit, even in several entries, does refund it.",
+    "The visible tests still pass."
+  ]
+}

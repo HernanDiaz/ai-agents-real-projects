@@ -1,0 +1,18 @@
+{
+  "task": "T06",
+  "goal": "Do not cancel bank-transfer orders whose payment has already been received.",
+  "allowed_paths": [
+    "orders.py",
+    "tests/test_orders.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "manage.py"
+  ],
+  "acceptance_criteria": [
+    "An order with the payment received never expires.",
+    "An unpaid order still expires after five days.",
+    "The visible tests still pass."
+  ]
+}

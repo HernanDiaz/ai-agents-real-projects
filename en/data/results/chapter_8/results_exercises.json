@@ -1,0 +1,14 @@
+{
+ "7_waves_with_check": {
+  "visible": true,
+  "hidden": {
+   "T22": false,
+   "T28": true,
+   "T29": false
+  },
+  "standing": 1,
+  "steps": 90,
+  "critical_path": 90,
+  "left_out": []
+ }
+}

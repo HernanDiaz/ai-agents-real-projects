@@ -1,0 +1,19 @@
+{
+  "task": "T12",
+  "goal": "Number invoices by year and series, and issue credit notes.",
+  "allowed_paths": [
+    "invoices.py",
+    "tests/test_invoices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "returns.py"
+  ],
+  "acceptance_criteria": [
+    "Numbering is consecutive within each year and series.",
+    "Each year starts at 0001.",
+    "The credit note has negative amounts and the number of the original invoice.",
+    "invoice_text also works for the credit note."
+  ]
+}

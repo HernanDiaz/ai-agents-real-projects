@@ -1,0 +1,21 @@
+{
+  "task": "T34",
+  "goal": "Sold-out bikes must be available for backorder.",
+  "allowed_paths": [
+    "backorders.py",
+    "tests/test_backorders.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "stock.py",
+    "orders.py",
+    "config.py"
+  ],
+  "acceptance_criteria": [
+    "A sold-out bike with a confirmed restock is accepted, with its date.",
+    "If there are units left in the size, it is not accepted.",
+    "Without a restock it is not accepted; with an unconfirmed restock, without a date.",
+    "Accessories are not accepted."
+  ]
+}

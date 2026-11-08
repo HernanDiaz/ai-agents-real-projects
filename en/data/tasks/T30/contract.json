@@ -1,0 +1,18 @@
+{
+  "task": "T30",
+  "goal": "A notice for bank-transfer orders that are waiting for the payment.",
+  "allowed_paths": [
+    "notices.py",
+    "tests/test_notices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "The notice greets and signs off like the others.",
+    "It states the order number and the amount in dollars.",
+    "It states the deadline: the order date plus config.TRANSFER_PAYMENT_DAYS days."
+  ]
+}

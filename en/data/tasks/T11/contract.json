@@ -1,0 +1,18 @@
+{
+  "task": "T11",
+  "goal": "A notice for delayed orders, with the reason and the new date.",
+  "allowed_paths": [
+    "notices.py",
+    "tests/test_notices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "delay_notice exists in notices.py.",
+    "The text matches the example, with the usual greeting and signature.",
+    "The reason and the date come from the order."
+  ]
+}

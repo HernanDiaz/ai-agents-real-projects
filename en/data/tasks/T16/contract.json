@@ -1,0 +1,21 @@
+{
+  "task": "T16",
+  "goal": "Extend the return period for holiday deliveries and show it in the delivery notice.",
+  "allowed_paths": [
+    "returns.py",
+    "notices.py",
+    "config.py",
+    "tests/test_returns.py",
+    "tests/test_notices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/"
+  ],
+  "acceptance_criteria": [
+    "Delivered on 12/10/2026: it can be returned until 01/31/2027.",
+    "Outside the campaign, the 30 days still apply.",
+    "If the 30 days end after 01/31, the later date applies.",
+    "The delivery notice shows the same deadline the program applies."
+  ]
+}

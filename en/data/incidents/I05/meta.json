@@ -1,0 +1,8 @@
+{
+  "id": "I05",
+  "title": "Appointment reminder",
+  "type": "feature",
+  "difficulty": 1,
+  "two_sessions": false,
+  "repository": "northside_vet"
+}

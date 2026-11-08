@@ -1,0 +1,9 @@
+{
+  "id": "T33",
+  "title": "Notifying a delayed order",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "chapter": 9,
+  "note": "The request doesn't say when to notify nor what cannot be promised."
+}

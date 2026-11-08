@@ -1,0 +1,20 @@
+{
+  "task": "T17",
+  "goal": "The basic tune-up must cost $39 throughout the program.",
+  "allowed_paths": [
+    "config.py",
+    "estimates.py",
+    "notices.py",
+    "tests/test_estimates.py",
+    "tests/test_notices.py",
+    "docs/terms_and_conditions.md"
+  ],
+  "forbidden_paths": [
+    "data/"
+  ],
+  "acceptance_criteria": [
+    "tune_up_price returns 39 when it is not free.",
+    "The tune-up reminder says $39, not $35.",
+    "The terms and conditions say $39."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "I07",
+  "title": "Dollar formatting in one place",
+  "type": "refactoring",
+  "difficulty": 1,
+  "two_sessions": false,
+  "repository": "northside_vet"
+}

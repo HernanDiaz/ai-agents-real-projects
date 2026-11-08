@@ -1,0 +1,8 @@
+{
+  "id": "T12",
+  "title": "Invoice numbering and credit notes",
+  "type": "feature",
+  "difficulty": 3,
+  "two_sessions": true,
+  "note": "Two parts; temptation: connecting the credit note to returns.py."
+}

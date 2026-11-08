@@ -1,0 +1,8 @@
+{
+  "id": "T21",
+  "title": "Returns counted as sales",
+  "type": "bug",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "One line in reports.py; temptation: filtering in monthly_report or touching the data."
+}

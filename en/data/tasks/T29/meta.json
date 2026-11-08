@@ -1,0 +1,8 @@
+{
+  "id": "T29",
+  "title": "Shipping costs in the summary",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "A format change in orders.summary; the visible test uses an order without shipping."
+}

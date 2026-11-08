@@ -1,0 +1,19 @@
+{
+  "task": "T22",
+  "goal": "A function that adds up what a customer has spent on their orders that are not canceled.",
+  "allowed_paths": [
+    "orders.py",
+    "tests/test_orders.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "customers.py",
+    "reports.py"
+  ],
+  "acceptance_criteria": [
+    "customer_total adds up the amounts of the customer's orders.",
+    "It does not count canceled orders.",
+    "It returns 0 if the customer has no orders, and rounds to cents."
+  ]
+}

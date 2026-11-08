@@ -1,0 +1,16 @@
+{
+  "task": "I05",
+  "goal": "An appointment reminder for the owners.",
+  "allowed_paths": [
+    "notices.py",
+    "tests/test_notices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "appointments.py"
+  ],
+  "acceptance_criteria": [
+    "appointment_reminder greets the owner and signs like the vaccine reminder.",
+    "It gives the pet's name, the day in mm/dd/yyyy format and the time."
+  ]
+}

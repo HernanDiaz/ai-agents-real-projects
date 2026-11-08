@@ -1,0 +1,15 @@
+{
+  "task": "I02",
+  "goal": "A vaccine due today must count as overdue.",
+  "allowed_paths": [
+    "vaccines.py",
+    "tests/test_vaccines.py"
+  ],
+  "forbidden_paths": [
+    "data/"
+  ],
+  "acceptance_criteria": [
+    "overdue includes the vaccines whose next date is today.",
+    "upcoming still does not include them."
+  ]
+}

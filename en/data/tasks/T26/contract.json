@@ -1,0 +1,18 @@
+{
+  "task": "T26",
+  "goal": "The invoice lines must show the size, except for \"one size\".",
+  "allowed_paths": [
+    "invoices.py",
+    "tests/test_invoices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "Each line says \"quantity × name (size)\".",
+    "With the size \"one size\", the line stays as before.",
+    "The rest of the invoice doesn't change."
+  ]
+}

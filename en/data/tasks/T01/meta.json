@@ -1,0 +1,8 @@
+{
+  "id": "T01",
+  "title": "Free shipping to the islands",
+  "type": "bug",
+  "difficulty": 1,
+  "two_sessions": false,
+  "note": "Logic bug in shipping.shipping_cost: the threshold ignores the zone."
+}

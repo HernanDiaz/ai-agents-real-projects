@@ -1,0 +1,797 @@
+[
+ {
+  "id": "INV-0001",
+  "owner": "C-001",
+  "date": "2026-10-16",
+  "lines": [
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   }
+  ],
+  "total": 106.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0002",
+  "owner": "C-001",
+  "date": "2026-07-29",
+  "lines": [
+   {
+    "item": "deworming",
+    "amount": 15.0
+   }
+  ],
+  "total": 15.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0003",
+  "owner": "C-002",
+  "date": "2026-09-21",
+  "lines": [
+   {
+    "item": "wound care",
+    "amount": 22.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 85.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0004",
+  "owner": "C-003",
+  "date": "2026-09-14",
+  "lines": [
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   },
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   },
+   {
+    "item": "leptospirosis vaccine",
+    "amount": 45.0
+   }
+  ],
+  "total": 121.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0005",
+  "owner": "C-003",
+  "date": "2026-09-27",
+  "lines": [
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   }
+  ],
+  "total": 66.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0006",
+  "owner": "C-004",
+  "date": "2026-06-09",
+  "lines": [
+   {
+    "item": "wound care",
+    "amount": 22.0
+   },
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 58.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0007",
+  "owner": "C-004",
+  "date": "2026-06-08",
+  "lines": [
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "consultation",
+    "amount": 35.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   }
+  ],
+  "total": 103.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0008",
+  "owner": "C-005",
+  "date": "2026-09-28",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   },
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   }
+  ],
+  "total": 103.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0009",
+  "owner": "C-005",
+  "date": "2026-07-28",
+  "lines": [
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   },
+   {
+    "item": "deworming",
+    "amount": 15.0
+   },
+   {
+    "item": "blood test",
+    "amount": 65.0
+   }
+  ],
+  "total": 116.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0010",
+  "owner": "C-005",
+  "date": "2026-06-21",
+  "lines": [
+   {
+    "item": "consultation",
+    "amount": 35.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   },
+   {
+    "item": "wound care",
+    "amount": 22.0
+   }
+  ],
+  "total": 97.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0011",
+  "owner": "C-006",
+  "date": "2026-10-12",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   }
+  ],
+  "total": 65.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0012",
+  "owner": "C-006",
+  "date": "2026-10-05",
+  "lines": [
+   {
+    "item": "wound care",
+    "amount": 22.0
+   }
+  ],
+  "total": 22.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0013",
+  "owner": "C-007",
+  "date": "2026-10-12",
+  "lines": [
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   }
+  ],
+  "total": 103.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0014",
+  "owner": "C-007",
+  "date": "2026-10-06",
+  "lines": [
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 35.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0015",
+  "owner": "C-008",
+  "date": "2026-09-14",
+  "lines": [
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 36.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0016",
+  "owner": "C-009",
+  "date": "2026-06-12",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   },
+   {
+    "item": "wound care",
+    "amount": 22.0
+   },
+   {
+    "item": "dental cleaning",
+    "amount": 120.0
+   }
+  ],
+  "total": 207.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0017",
+  "owner": "C-010",
+  "date": "2026-07-02",
+  "lines": [
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "leptospirosis vaccine",
+    "amount": 45.0
+   },
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   }
+  ],
+  "total": 111.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0018",
+  "owner": "C-010",
+  "date": "2026-06-29",
+  "lines": [
+   {
+    "item": "rabies vaccine",
+    "amount": 30.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   }
+  ],
+  "total": 58.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0019",
+  "owner": "C-011",
+  "date": "2026-08-12",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   }
+  ],
+  "total": 65.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0020",
+  "owner": "C-011",
+  "date": "2026-08-14",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   }
+  ],
+  "total": 65.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0021",
+  "owner": "C-011",
+  "date": "2026-06-07",
+  "lines": [
+   {
+    "item": "rabies vaccine",
+    "amount": 30.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 55.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0022",
+  "owner": "C-012",
+  "date": "2026-09-01",
+  "lines": [
+   {
+    "item": "leptospirosis vaccine",
+    "amount": 45.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 70.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0023",
+  "owner": "C-013",
+  "date": "2026-07-24",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   },
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 126.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0024",
+  "owner": "C-014",
+  "date": "2026-10-04",
+  "lines": [
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 65.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0025",
+  "owner": "C-014",
+  "date": "2026-07-01",
+  "lines": [
+   {
+    "item": "rabies vaccine",
+    "amount": 30.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 95.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0026",
+  "owner": "C-014",
+  "date": "2026-08-02",
+  "lines": [
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   },
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 71.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0027",
+  "owner": "C-015",
+  "date": "2026-06-26",
+  "lines": [
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 64.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0028",
+  "owner": "C-015",
+  "date": "2026-08-22",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   },
+   {
+    "item": "rabies vaccine",
+    "amount": 30.0
+   }
+  ],
+  "total": 95.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0029",
+  "owner": "C-015",
+  "date": "2026-06-06",
+  "lines": [
+   {
+    "item": "dental cleaning",
+    "amount": 120.0
+   },
+   {
+    "item": "blood test",
+    "amount": 65.0
+   },
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 221.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0030",
+  "owner": "C-016",
+  "date": "2026-10-10",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   }
+  ],
+  "total": 65.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0031",
+  "owner": "C-017",
+  "date": "2026-09-13",
+  "lines": [
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   }
+  ],
+  "total": 66.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0032",
+  "owner": "C-018",
+  "date": "2026-10-08",
+  "lines": [
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 25.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0033",
+  "owner": "C-018",
+  "date": "2026-10-17",
+  "lines": [
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 101.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0034",
+  "owner": "C-018",
+  "date": "2026-09-06",
+  "lines": [
+   {
+    "item": "wound care",
+    "amount": 22.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   }
+  ],
+  "total": 62.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0035",
+  "owner": "C-019",
+  "date": "2026-09-21",
+  "lines": [
+   {
+    "item": "dental cleaning",
+    "amount": 120.0
+   },
+   {
+    "item": "deworming",
+    "amount": 15.0
+   },
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   }
+  ],
+  "total": 173.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0036",
+  "owner": "C-020",
+  "date": "2026-06-26",
+  "lines": [
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 35.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0037",
+  "owner": "C-020",
+  "date": "2026-07-15",
+  "lines": [
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 36.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0038",
+  "owner": "C-020",
+  "date": "2026-07-24",
+  "lines": [
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   },
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 63.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0039",
+  "owner": "C-021",
+  "date": "2026-08-14",
+  "lines": [
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   },
+   {
+    "item": "deworming",
+    "amount": 15.0
+   }
+  ],
+  "total": 55.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0040",
+  "owner": "C-021",
+  "date": "2026-08-11",
+  "lines": [
+   {
+    "item": "blood test",
+    "amount": 65.0
+   },
+   {
+    "item": "feline leukemia vaccine",
+    "amount": 40.0
+   },
+   {
+    "item": "myxomatosis vaccine",
+    "amount": 25.0
+   }
+  ],
+  "total": 130.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0041",
+  "owner": "C-022",
+  "date": "2026-07-18",
+  "lines": [
+   {
+    "item": "DHPP vaccine",
+    "amount": 38.0
+   }
+  ],
+  "total": 38.0,
+  "paid": true
+ },
+ {
+  "id": "INV-0042",
+  "owner": "C-022",
+  "date": "2026-09-10",
+  "lines": [
+   {
+    "item": "consultation",
+    "amount": 35.0
+   }
+  ],
+  "total": 35.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0043",
+  "owner": "C-022",
+  "date": "2026-06-14",
+  "lines": [
+   {
+    "item": "deworming",
+    "amount": 15.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   }
+  ],
+  "total": 43.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0044",
+  "owner": "C-023",
+  "date": "2026-07-14",
+  "lines": [
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 36.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0045",
+  "owner": "C-024",
+  "date": "2026-07-26",
+  "lines": [
+   {
+    "item": "FVRCP vaccine",
+    "amount": 36.0
+   }
+  ],
+  "total": 36.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0046",
+  "owner": "C-025",
+  "date": "2026-10-15",
+  "lines": [
+   {
+    "item": "dental cleaning",
+    "amount": 120.0
+   },
+   {
+    "item": "rabbit hemorrhagic disease vaccine",
+    "amount": 28.0
+   }
+  ],
+  "total": 148.0,
+  "paid": false
+ },
+ {
+  "id": "INV-0047",
+  "owner": "C-026",
+  "date": "2026-08-19",
+  "lines": [
+   {
+    "item": "rabies vaccine",
+    "amount": 30.0
+   }
+  ],
+  "total": 30.0,
+  "paid": true
+ }
+]

@@ -1,0 +1,21 @@
+{
+  "task": "T10",
+  "goal": "Recognize Canada and Alaska as shipping zones, with their rate and delivery time.",
+  "allowed_paths": [
+    "shipping.py",
+    "config.py",
+    "tests/test_shipping.py",
+    "docs/terms_and_conditions.md"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "returns.py",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "M5V 2T6 is Canada and 99501 is Alaska.",
+    "Canada pays $11.95 and Alaska $12.95, whatever the amount.",
+    "Delivery dates: 4-6 business days (Canada), 3-5 (Alaska).",
+    "The existing zones don't change."
+  ]
+}

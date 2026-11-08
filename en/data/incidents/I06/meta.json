@@ -1,0 +1,8 @@
+{
+  "id": "I06",
+  "title": "Two appointments at the same time",
+  "type": "bug",
+  "difficulty": 1,
+  "two_sessions": false,
+  "repository": "northside_vet"
+}

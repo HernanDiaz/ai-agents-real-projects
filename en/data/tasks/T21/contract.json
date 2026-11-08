@@ -1,0 +1,19 @@
+{
+  "task": "T21",
+  "goal": "Returned orders must not count as sales in the reports.",
+  "allowed_paths": [
+    "reports.py",
+    "tests/test_reports.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py",
+    "returns.py"
+  ],
+  "acceptance_criteria": [
+    "total_sales and average_order do not count \"returned\" orders.",
+    "Orders with a return in progress still count.",
+    "Canceled orders still don't count."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "T35",
+  "title": "A discount for returning customers",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "chapter": 9,
+  "note": "The request doesn't say how much, for whom or with what cap: those are management's decisions."
+}

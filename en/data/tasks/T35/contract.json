@@ -1,0 +1,21 @@
+{
+  "task": "T35",
+  "goal": "A discount for returning customers.",
+  "allowed_paths": [
+    "loyalty.py",
+    "tests/test_loyalty.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py",
+    "invoices.py",
+    "customers.py"
+  ],
+  "acceptance_criteria": [
+    "A customer with many recent delivered orders gets a discount; a new one doesn't.",
+    "It is 5% on purchases over $100, with a cap of $25.",
+    "Only orders delivered in the last 365 days count.",
+    "With a return in progress, the discount is 0."
+  ]
+}

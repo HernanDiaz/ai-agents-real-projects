@@ -1,0 +1,18 @@
+{
+  "task": "T13",
+  "goal": "List the sizes with few units, with a configurable minimum.",
+  "allowed_paths": [
+    "stock.py",
+    "config.py",
+    "tests/test_stock.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/"
+  ],
+  "acceptance_criteria": [
+    "It returns (ref, size, units) for the sizes with 1 or 2 units.",
+    "Sorted by product reference; the sizes, in the warehouse order.",
+    "config.MIN_STOCK is 2."
+  ]
+}

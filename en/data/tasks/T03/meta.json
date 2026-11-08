@@ -1,0 +1,8 @@
+{
+  "id": "T03",
+  "title": "Shipping refunded on partial returns",
+  "type": "bug",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "The code compares the number of lines, not the units."
+}

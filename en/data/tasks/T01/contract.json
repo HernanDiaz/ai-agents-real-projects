@@ -1,0 +1,20 @@
+{
+  "task": "T01",
+  "goal": "Free shipping on orders over $50 must only apply in the contiguous US.",
+  "allowed_paths": [
+    "shipping.py",
+    "config.py",
+    "tests/test_shipping.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py",
+    "returns.py"
+  ],
+  "acceptance_criteria": [
+    "Puerto Rico and Hawaii pay their rate even if the order is over $50.",
+    "In the contiguous US it is still free over $50.",
+    "The visible tests still pass."
+  ]
+}

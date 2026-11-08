@@ -1,0 +1,18 @@
+{
+  "task": "T14",
+  "goal": "Find by email ignoring case and spaces, and list a customer's orders.",
+  "allowed_paths": [
+    "customers.py",
+    "tests/test_customers.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "\"  LAURA.GREEN@example.com \" finds CL-0001.",
+    "An email stored with capital letters is also found.",
+    "customer_orders returns the numbers from the most recent to the oldest, or an empty list."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task": "T09",
+  "goal": "Compute the installments of a payment plan and show them on the invoice.",
+  "allowed_paths": [
+    "orders.py",
+    "invoices.py",
+    "config.py",
+    "tests/test_orders.py",
+    "tests/test_invoices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/"
+  ],
+  "acceptance_criteria": [
+    "installments(1000, 3) gives [333.33, 333.33, 333.34].",
+    "The installments add up exactly to the amount.",
+    "Amounts of $300 or less, or months other than 3, 6 and 12: ValueError.",
+    "The invoice of an order paid in installments shows the installment plan line."
+  ]
+}

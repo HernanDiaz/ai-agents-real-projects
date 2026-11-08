@@ -1,0 +1,17 @@
+{
+  "task": "I04",
+  "goal": "An emergency visit must cost $70 in the program and in the price list.",
+  "allowed_paths": [
+    "config.py",
+    "docs/price_list.md",
+    "tests/test_config.py"
+  ],
+  "forbidden_paths": [
+    "data/"
+  ],
+  "acceptance_criteria": [
+    "config.PRICES['emergency visit'] is 70.",
+    "docs/price_list.md says $70.00 for the emergency visit.",
+    "The test that checked the old price is updated."
+  ]
+}

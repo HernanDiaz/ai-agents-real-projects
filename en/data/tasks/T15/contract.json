@@ -1,0 +1,21 @@
+{
+  "task": "T15",
+  "goal": "Free shipping over $60 in the contiguous US and over $150 to Puerto Rico.",
+  "allowed_paths": [
+    "config.py",
+    "shipping.py",
+    "tests/test_shipping.py",
+    "docs/terms_and_conditions.md"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "orders.py",
+    "returns.py"
+  ],
+  "acceptance_criteria": [
+    "Contiguous US: $60 pays shipping; $60.01 doesn't.",
+    "Puerto Rico: free over $150; Hawaii always pays.",
+    "The terms and conditions say $60 and $150.",
+    "The visible tests of the old rule are updated."
+  ]
+}

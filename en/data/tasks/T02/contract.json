@@ -1,0 +1,17 @@
+{
+  "task": "T02",
+  "goal": "The shipping zone must be right even if the ZIP code has lost its leading zeros or comes as a number.",
+  "allowed_paths": [
+    "shipping.py",
+    "tests/test_shipping.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/"
+  ],
+  "acceptance_criteria": [
+    "A ZIP code 907 (number or text) is recognized as Puerto Rico.",
+    "Contiguous US ZIP codes that start with 0 are still contiguous US.",
+    "The data is not changed: the program must accept it as it comes."
+  ]
+}

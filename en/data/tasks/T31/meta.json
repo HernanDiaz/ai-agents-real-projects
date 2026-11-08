@@ -1,0 +1,9 @@
+{
+  "id": "T31",
+  "title": "Removing a customer",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "chapter": 9,
+  "note": "The request says \"delete\"; the store cannot delete the customer (invoices) nor remove them while they have orders in progress."
+}

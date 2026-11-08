@@ -1,0 +1,8 @@
+{
+  "id": "T14",
+  "title": "Finding customers by email, and their orders",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "Two requests in one; temptation: normalizing the emails in data/customers.json or putting the function in orders.py."
+}

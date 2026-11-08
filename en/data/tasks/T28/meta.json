@@ -1,0 +1,8 @@
+{
+  "id": "T28",
+  "title": "Delayed orders that can't be canceled",
+  "type": "bug",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "The rule is in config.CANCELABLE_STATUSES; temptation: changing can_cancel or cancel."
+}

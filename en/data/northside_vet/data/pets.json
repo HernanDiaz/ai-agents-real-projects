@@ -1,0 +1,362 @@
+{
+ "P-001": {
+  "name": "Lola",
+  "species": "dog",
+  "breed": "French bulldog",
+  "sex": "female",
+  "birth_date": "2022-11-06",
+  "weight_kg": 13.0,
+  "owner": "C-001",
+  "allergies": [],
+  "microchip": "985000741392371",
+  "neutered": true
+ },
+ "P-002": {
+  "name": "Toby",
+  "species": "dog",
+  "breed": "Poodle",
+  "sex": "male",
+  "birth_date": "2012-04-12",
+  "weight_kg": 6.1,
+  "owner": "C-002",
+  "allergies": [
+   "penicillin"
+  ],
+  "microchip": "985000118316690",
+  "neutered": false
+ },
+ "P-003": {
+  "name": "Rocky",
+  "species": "dog",
+  "breed": "Poodle",
+  "sex": "male",
+  "birth_date": "2018-11-12",
+  "weight_kg": 5.8,
+  "owner": "C-003",
+  "allergies": [],
+  "microchip": "985000666263339",
+  "neutered": true
+ },
+ "P-004": {
+  "name": "Coco",
+  "species": "dog",
+  "breed": "Beagle",
+  "sex": "male",
+  "birth_date": "2022-12-17",
+  "weight_kg": 12.6,
+  "owner": "C-004",
+  "allergies": [
+   "meloxicam"
+  ],
+  "microchip": "985000737727443",
+  "neutered": false
+ },
+ "P-005": {
+  "name": "Luna",
+  "species": "dog",
+  "breed": "French bulldog",
+  "sex": "female",
+  "birth_date": "2014-02-25",
+  "weight_kg": 12.4,
+  "owner": "C-005",
+  "allergies": [],
+  "microchip": "985000363400723",
+  "neutered": false
+ },
+ "P-006": {
+  "name": "Max",
+  "species": "dog",
+  "breed": "Mixed breed",
+  "sex": "male",
+  "birth_date": "2022-01-02",
+  "weight_kg": 20.7,
+  "owner": "C-006",
+  "allergies": [],
+  "microchip": "985000992558108",
+  "neutered": true
+ },
+ "P-007": {
+  "name": "Kira",
+  "species": "dog",
+  "breed": "Mixed breed",
+  "sex": "female",
+  "birth_date": "2023-08-03",
+  "weight_kg": 17.3,
+  "owner": "C-007",
+  "allergies": [],
+  "microchip": "985000425839575",
+  "neutered": false
+ },
+ "P-008": {
+  "name": "Bruno",
+  "species": "dog",
+  "breed": "French bulldog",
+  "sex": "male",
+  "birth_date": "2013-12-04",
+  "weight_kg": 12.6,
+  "owner": "C-008",
+  "allergies": [
+   "chicken"
+  ],
+  "microchip": "985000584642145",
+  "neutered": true
+ },
+ "P-009": {
+  "name": "Nala",
+  "species": "dog",
+  "breed": "Beagle",
+  "sex": "female",
+  "birth_date": "2012-05-31",
+  "weight_kg": 12.1,
+  "owner": "C-009",
+  "allergies": [
+   "amoxicillin"
+  ],
+  "microchip": "985000369656890",
+  "neutered": true
+ },
+ "P-010": {
+  "name": "Thor",
+  "species": "dog",
+  "breed": "Border collie",
+  "sex": "male",
+  "birth_date": "2016-03-16",
+  "weight_kg": 17.8,
+  "owner": "C-010",
+  "allergies": [],
+  "microchip": "985000584830133",
+  "neutered": true
+ },
+ "P-011": {
+  "name": "Ginger",
+  "species": "dog",
+  "breed": "Poodle",
+  "sex": "female",
+  "birth_date": "2017-09-18",
+  "weight_kg": 5.7,
+  "owner": "C-011",
+  "allergies": [],
+  "microchip": "985000552842979",
+  "neutered": false
+ },
+ "P-012": {
+  "name": "Zeus",
+  "species": "dog",
+  "breed": "German shepherd",
+  "sex": "male",
+  "birth_date": "2022-08-24",
+  "weight_kg": 32.2,
+  "owner": "C-012",
+  "allergies": [],
+  "microchip": "985000628304723",
+  "neutered": true
+ },
+ "P-013": {
+  "name": "Penny",
+  "species": "dog",
+  "breed": "French bulldog",
+  "sex": "female",
+  "birth_date": "2023-02-20",
+  "weight_kg": 12.3,
+  "owner": "C-013",
+  "allergies": [],
+  "microchip": "985000964084052",
+  "neutered": true
+ },
+ "P-014": {
+  "name": "Daisy",
+  "species": "dog",
+  "breed": "Border collie",
+  "sex": "female",
+  "birth_date": "2015-08-28",
+  "weight_kg": 16.7,
+  "owner": "C-014",
+  "allergies": [],
+  "microchip": "985000765121612",
+  "neutered": true
+ },
+ "P-015": {
+  "name": "Rufus",
+  "species": "dog",
+  "breed": "German shepherd",
+  "sex": "male",
+  "birth_date": "2019-03-07",
+  "weight_kg": 29.5,
+  "owner": "C-015",
+  "allergies": [],
+  "microchip": "985000623984659",
+  "neutered": false
+ },
+ "P-016": {
+  "name": "Bella",
+  "species": "dog",
+  "breed": "Beagle",
+  "sex": "female",
+  "birth_date": "2018-07-10",
+  "weight_kg": 10.8,
+  "owner": "C-016",
+  "allergies": [],
+  "microchip": "985000769782956",
+  "neutered": true
+ },
+ "P-017": {
+  "name": "Simba",
+  "species": "cat",
+  "breed": "Domestic shorthair",
+  "sex": "female",
+  "birth_date": "2016-02-04",
+  "weight_kg": 4.2,
+  "owner": "C-017",
+  "allergies": [
+   "amoxicillin"
+  ],
+  "microchip": "985000832395102",
+  "neutered": false
+ },
+ "P-018": {
+  "name": "Mia",
+  "species": "cat",
+  "breed": "Persian",
+  "sex": "female",
+  "birth_date": "2023-02-27",
+  "weight_kg": 5.0,
+  "owner": "C-018",
+  "allergies": [],
+  "microchip": "985000166867104",
+  "neutered": false
+ },
+ "P-019": {
+  "name": "Mittens",
+  "species": "cat",
+  "breed": "Siamese",
+  "sex": "male",
+  "birth_date": "2018-01-14",
+  "weight_kg": 3.5,
+  "owner": "C-019",
+  "allergies": [],
+  "microchip": "985000553238887",
+  "neutered": false
+ },
+ "P-020": {
+  "name": "Willow",
+  "species": "cat",
+  "breed": "Maine coon",
+  "sex": "female",
+  "birth_date": "2013-09-13",
+  "weight_kg": 8.3,
+  "owner": "C-020",
+  "allergies": [],
+  "microchip": "985000207540635",
+  "neutered": true
+ },
+ "P-021": {
+  "name": "Oliver",
+  "species": "cat",
+  "breed": "Siamese",
+  "sex": "male",
+  "birth_date": "2017-06-16",
+  "weight_kg": 3.5,
+  "owner": "C-021",
+  "allergies": [],
+  "microchip": "985000254915484",
+  "neutered": true
+ },
+ "P-022": {
+  "name": "Cleo",
+  "species": "cat",
+  "breed": "Domestic shorthair",
+  "sex": "female",
+  "birth_date": "2014-05-13",
+  "weight_kg": 4.6,
+  "owner": "C-022",
+  "allergies": [
+   "meloxicam"
+  ],
+  "microchip": "985000596834617",
+  "neutered": false
+ },
+ "P-023": {
+  "name": "Salem",
+  "species": "cat",
+  "breed": "Domestic shorthair",
+  "sex": "male",
+  "birth_date": "2012-09-09",
+  "weight_kg": 3.4,
+  "owner": "C-023",
+  "allergies": [],
+  "microchip": "985000236372319",
+  "neutered": false
+ },
+ "P-024": {
+  "name": "Misha",
+  "species": "cat",
+  "breed": "Domestic shorthair",
+  "sex": "female",
+  "birth_date": "2015-08-12",
+  "weight_kg": 4.8,
+  "owner": "C-024",
+  "allergies": [],
+  "microchip": "985000384740427",
+  "neutered": false
+ },
+ "P-025": {
+  "name": "Tiger",
+  "species": "cat",
+  "breed": "Maine coon",
+  "sex": "male",
+  "birth_date": "2023-03-17",
+  "weight_kg": 6.9,
+  "owner": "C-025",
+  "allergies": [],
+  "microchip": "985000949686777",
+  "neutered": false
+ },
+ "P-026": {
+  "name": "Kiwi",
+  "species": "cat",
+  "breed": "Siamese",
+  "sex": "male",
+  "birth_date": "2021-11-20",
+  "weight_kg": 3.8,
+  "owner": "C-026",
+  "allergies": [],
+  "microchip": "985000571887075",
+  "neutered": true
+ },
+ "P-027": {
+  "name": "Zoë",
+  "species": "cat",
+  "breed": "Persian",
+  "sex": "female",
+  "birth_date": "2022-09-16",
+  "weight_kg": 4.7,
+  "owner": "C-001",
+  "allergies": [],
+  "microchip": "985000168365303",
+  "neutered": false
+ },
+ "P-028": {
+  "name": "Snowball",
+  "species": "rabbit",
+  "breed": "Netherland dwarf",
+  "sex": "male",
+  "birth_date": "2020-02-25",
+  "weight_kg": 1.1,
+  "owner": "C-002",
+  "allergies": [],
+  "microchip": null,
+  "neutered": false
+ },
+ "P-029": {
+  "name": "Truffle",
+  "species": "rabbit",
+  "breed": "Holland lop",
+  "sex": "female",
+  "birth_date": "2023-04-08",
+  "weight_kg": 2.1,
+  "owner": "C-003",
+  "allergies": [],
+  "microchip": null,
+  "neutered": true
+ }
+}

@@ -1,0 +1,19 @@
+{
+  "task": "T33",
+  "goal": "Tell the customer that their order is delayed.",
+  "allowed_paths": [
+    "delays.py",
+    "tests/test_delays.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "notices.py",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "The notice greets, says the number, the reason and the new date, and signs off.",
+    "With a delay of 2 days or less it returns None.",
+    "It does not promise discounts, free shipping, gifts or refunds."
+  ]
+}

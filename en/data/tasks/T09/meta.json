@@ -1,0 +1,8 @@
+{
+  "id": "T09",
+  "title": "Paying in installments",
+  "type": "feature",
+  "difficulty": 3,
+  "two_sessions": true,
+  "note": "Two parts in two modules; the second depends on the first."
+}

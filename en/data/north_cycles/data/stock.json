@@ -1,0 +1,18 @@
+{
+ "UR-5120": {"name": "City 3", "units": {"S": 2, "M": 4, "L": 0}},
+ "UR-5150": {"name": "City 5", "units": {"S": 0, "M": 3, "L": 1}},
+ "UR-5310": {"name": "Folding 20", "units": {"one size": 6}},
+ "MT-2910": {"name": "Mountain 29", "units": {"S": 1, "M": 2, "L": 0, "XL": 1}, "restock": "2026-10-14"},
+ "MT-2950": {"name": "Mountain 29 Pro", "units": {"M": 1, "L": 1}},
+ "CR-7010": {"name": "Aero 3", "units": {"50": 1, "52": 2, "54": 0, "56": 3, "58": 1}, "restock": "2026-10-20"},
+ "CR-7050": {"name": "Aero 5", "units": {"52": 1, "54": 1, "56": 0}},
+ "EL-9010": {"name": "E-City 400", "units": {"M": 5, "L": 2}},
+ "EL-9050": {"name": "E-City 600", "units": {"M": 0, "L": 0}, "restock": "2026-11-05"},
+ "EL-9200": {"name": "E-Folding", "units": {"one size": 3}},
+ "EL-9300": {"name": "E-Cargo", "units": {"one size": 1}},
+ "IN-1160": {"name": "Kids 16", "units": {"one size": 7}},
+ "CA-4010": {"name": "City Helmet", "units": {"M": 10, "L": 6}},
+ "CA-4150": {"name": "Mini Helmet", "units": {"XS": 4, "S": 0}},
+ "AN-8010": {"name": "U-Lock", "units": {"one size": 12}},
+ "RO-2100": {"name": "Rain Jacket", "units": {"S": 3, "M": 0, "L": 2, "XL": 1}}
+}

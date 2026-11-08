@@ -1,0 +1,8 @@
+{
+  "id": "T24",
+  "title": "Negative restocks",
+  "type": "bug",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "Validation at the start of restock; the warehouse must not change if it is rejected."
+}

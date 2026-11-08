@@ -1,0 +1,16 @@
+{
+  "task": "I01",
+  "goal": "No free slots on the days the clinic is closed.",
+  "allowed_paths": [
+    "appointments.py",
+    "tests/test_appointments.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "config.py"
+  ],
+  "acceptance_criteria": [
+    "free_slots returns no time on Saturday or Sunday.",
+    "From Monday to Friday it still returns the free times."
+  ]
+}

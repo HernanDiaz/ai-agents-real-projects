@@ -1,0 +1,18 @@
+{
+  "task": "T05",
+  "goal": "sold_out() must only return products with no units in any size.",
+  "allowed_paths": [
+    "stock.py",
+    "tests/test_stock.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "manage.py"
+  ],
+  "acceptance_criteria": [
+    "The City 3 does not show up as sold out.",
+    "The E-City 600, with no units in any size, does show up.",
+    "The visible tests still pass."
+  ]
+}

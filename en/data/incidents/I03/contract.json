@@ -1,0 +1,15 @@
+{
+  "task": "I03",
+  "goal": "dose must not give a dose of a drug the pet is allergic to.",
+  "allowed_paths": [
+    "pharmacy.py",
+    "tests/test_pharmacy.py"
+  ],
+  "forbidden_paths": [
+    "data/"
+  ],
+  "acceptance_criteria": [
+    "dose raises ValueError if the drug is among the pet's allergies.",
+    "Without an allergy to the drug, the dose does not change."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "T25",
+  "goal": "Delivery to Hawaii must be estimated at 6-9 business days.",
+  "allowed_paths": [
+    "config.py",
+    "shipping.py",
+    "tests/test_shipping.py",
+    "docs/terms_and_conditions.md"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "orders.py"
+  ],
+  "acceptance_criteria": [
+    "estimated_delivery for Hawaii uses 6 and 9 business days.",
+    "The contiguous US and Puerto Rico don't change.",
+    "The terms and conditions say 6-9 business days for Hawaii."
+  ]
+}

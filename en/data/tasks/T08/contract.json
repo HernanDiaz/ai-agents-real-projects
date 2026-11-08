@@ -1,0 +1,19 @@
+{
+  "task": "T08",
+  "goal": "Send marketing only to the customers who have expressly accepted it.",
+  "allowed_paths": [
+    "customers.py",
+    "notices.py",
+    "tests/test_customers.py",
+    "tests/test_notices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/"
+  ],
+  "acceptance_criteria": [
+    "A customer without the \"marketing\" field does not get promotions.",
+    "Those with marketing: true still get them.",
+    "The customer data is not touched."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "task": "I08",
+  "goal": "The sum of what an owner has paid between two dates.",
+  "allowed_paths": [
+    "invoices.py",
+    "tests/test_invoices.py"
+  ],
+  "forbidden_paths": [
+    "data/"
+  ],
+  "acceptance_criteria": [
+    "owner_total adds up the owner's invoices between the two dates, both included.",
+    "It does not count those of other owners or those outside the period.",
+    "It returns 0 if there are none, and rounds to cents."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "CL-0001": {"name": "Laura Green", "email": "laura.green@example.com", "city": "Seattle", "marketing": true},
+ "CL-0002": {"name": "Ralph Owens", "email": "ralph.owens@example.com", "city": "Boise", "marketing": false},
+ "CL-0003": {"name": "Lucy Rivers", "email": "lucy.rivers@example.com", "city": "Eugene", "marketing": true},
+ "CL-0004": {"name": "Sarah Miller", "email": "sarah.miller@example.com", "city": "San Diego", "marketing": false},
+ "CL-0005": {"name": "Martha Ingram", "email": "martha.ingram@example.com", "city": "Portland", "marketing": true},
+ "CL-0006": {"name": "Oscar Vance", "email": "oscar.vance@example.com", "city": "Chicago", "marketing": false},
+ "CL-0007": {"name": "Carol Dixon", "email": "carol.dixon@example.com", "city": "Portland"},
+ "CL-0008": {"name": "Anna Price", "email": "Anna.Price@example.com", "city": "Boston", "marketing": true},
+ "CL-0009": {"name": "James Scott", "email": "james.scott@example.com", "city": "Austin", "marketing": false},
+ "CL-0010": {"name": "Ellen Martin", "email": "ellen.martin@example.com", "city": "Honolulu", "marketing": true},
+ "CL-0011": {"name": "Paul Fisher", "email": "paul.fisher@example.com", "city": "Portland"},
+ "CL-0012": {"name": "Marina Baez", "email": "marina.baez@example.com", "city": "San Juan", "marketing": true}
+}

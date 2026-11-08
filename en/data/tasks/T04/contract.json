@@ -1,0 +1,18 @@
+{
+  "task": "T04",
+  "goal": "The amount before tax plus the sales tax must add up exactly to the total.",
+  "allowed_paths": [
+    "invoices.py",
+    "tests/test_invoices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "config.py"
+  ],
+  "acceptance_criteria": [
+    "split_tax(110) gives $100.00 before tax and $10.00 of tax.",
+    "For any total, before tax + tax = total to the cent.",
+    "The visible tests still pass."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "T18",
+  "goal": "Remove the three copies of _days_between and use utils.days_between.",
+  "allowed_paths": [
+    "orders.py",
+    "returns.py",
+    "estimates.py",
+    "utils.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "tests/",
+    "config.py"
+  ],
+  "acceptance_criteria": [
+    "No module defines _days_between or uses date.fromisoformat on its own.",
+    "The behavior does not change: the visible tests pass without touching them."
+  ]
+}

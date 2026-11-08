@@ -1,0 +1,8 @@
+{
+  "id": "T27",
+  "title": "The customers with the most orders",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "A new function in reports.py; you have to count only the valid orders and break ties."
+}

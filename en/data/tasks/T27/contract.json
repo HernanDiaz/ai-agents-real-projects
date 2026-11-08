@@ -1,0 +1,19 @@
+{
+  "task": "T27",
+  "goal": "A function with the customers who have placed the most valid orders.",
+  "allowed_paths": [
+    "reports.py",
+    "tests/test_reports.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "orders.py",
+    "customers.py"
+  ],
+  "acceptance_criteria": [
+    "It counts only the orders that are not canceled.",
+    "It sorts from most to fewest orders and, in ties, by id.",
+    "It returns at most n tuples (customer, number)."
+  ]
+}

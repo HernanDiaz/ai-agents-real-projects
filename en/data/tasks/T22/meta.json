@@ -1,0 +1,8 @@
+{
+  "id": "T22",
+  "title": "What a customer has spent",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "A new function of a few lines; you have to look at how orders are stored (by number, with the customer inside)."
+}

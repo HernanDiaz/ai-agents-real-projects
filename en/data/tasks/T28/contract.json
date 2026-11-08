@@ -1,0 +1,18 @@
+{
+  "task": "T28",
+  "goal": "Delayed orders must be cancelable.",
+  "allowed_paths": [
+    "config.py",
+    "orders.py",
+    "tests/test_orders.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/"
+  ],
+  "acceptance_criteria": [
+    "A \"delayed\" order can be canceled.",
+    "Shipped and delivered orders still can't be canceled.",
+    "The visible tests still pass."
+  ]
+}

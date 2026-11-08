@@ -1,0 +1,18 @@
+{
+  "task": "T24",
+  "goal": "restock must reject quantities that are zero or negative.",
+  "allowed_paths": [
+    "stock.py",
+    "tests/test_stock.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "returns.py"
+  ],
+  "acceptance_criteria": [
+    "restock with 0 or with a negative quantity raises ValueError.",
+    "If it raises the error, the warehouse does not change (nor is the reference created).",
+    "Positive restocks work as before."
+  ]
+}

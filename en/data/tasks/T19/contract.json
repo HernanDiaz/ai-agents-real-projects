@@ -1,0 +1,18 @@
+{
+  "task": "T19",
+  "goal": "returns.py must read the return period, the miles and the prefixes from config.py.",
+  "allowed_paths": [
+    "returns.py",
+    "config.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "tests/"
+  ],
+  "acceptance_criteria": [
+    "returns.py does not contain the numbers 30 or 6, nor the list of prefixes.",
+    "The messages to the customer show the values from config.py.",
+    "The behavior does not change: the visible tests pass without touching them."
+  ]
+}

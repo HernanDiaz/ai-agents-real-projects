@@ -1,0 +1,8 @@
+{
+  "id": "T06",
+  "title": "Paid bank transfers get canceled",
+  "type": "bug",
+  "difficulty": 1,
+  "two_sessions": false,
+  "note": "transfer_expired does not check whether the payment has arrived."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "T15",
+  "title": "New free-shipping thresholds",
+  "type": "rule",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "The rule changes, so the visible tests have to change too."
+}

@@ -20,6 +20,8 @@ Lo que se mide no es solo cuántas tareas resuelve el agente, sino cuánto vale 
 
 Forma parte de la colección **IA en práctica**: libros prácticos de inteligencia artificial con experimentos propios, un cuaderno y un vídeo en cada capítulo.
 
+> *Prefer English?* The English edition, **Agents II: Working with Agents on Real Projects**, is in the [`en/` folder](./en/).
+
 ---
 
 ## Capítulos

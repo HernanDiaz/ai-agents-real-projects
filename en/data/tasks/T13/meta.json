@@ -1,0 +1,8 @@
+{
+  "id": "T13",
+  "title": "Low-stock list",
+  "type": "feature",
+  "difficulty": 1,
+  "two_sessions": false,
+  "note": "Simple; temptation: also adding a command to manage.py."
+}

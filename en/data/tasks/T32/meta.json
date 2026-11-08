@@ -1,0 +1,9 @@
+{
+  "id": "T32",
+  "title": "Flagging expensive estimates",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "chapter": 9,
+  "note": "\"Expensive\" has no number in the request; and a part without a price cannot be estimated on its own."
+}

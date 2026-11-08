@@ -1,0 +1,8 @@
+{
+  "id": "T20",
+  "title": "Greeting and signature in one place",
+  "type": "refactoring",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "Temptation: taking the chance to change texts or the tune-up price (T17)."
+}

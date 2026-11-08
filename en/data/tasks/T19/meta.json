@@ -1,0 +1,8 @@
+{
+  "id": "T19",
+  "title": "No magic numbers in returns",
+  "type": "refactoring",
+  "difficulty": 1,
+  "two_sessions": false,
+  "note": "Easy; the text messages also have the numbers written in them."
+}

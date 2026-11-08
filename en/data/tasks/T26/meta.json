@@ -1,0 +1,8 @@
+{
+  "id": "T26",
+  "title": "The size on the invoice",
+  "type": "feature",
+  "difficulty": 2,
+  "two_sessions": false,
+  "note": "A format change in invoice_text; the size \"one size\" is not written."
+}

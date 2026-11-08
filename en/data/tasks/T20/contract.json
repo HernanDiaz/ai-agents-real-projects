@@ -1,0 +1,18 @@
+{
+  "task": "T20",
+  "goal": "A compose() function for the greeting and the signature, used by every notice.",
+  "allowed_paths": [
+    "notices.py",
+    "tests/test_notices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "customers.py"
+  ],
+  "acceptance_criteria": [
+    "notices.compose(customer, body) returns the full email.",
+    "The greeting and the signature appear only once in notices.py.",
+    "The texts of every notice are identical to the old ones."
+  ]
+}

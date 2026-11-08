@@ -1,0 +1,8 @@
+{
+  "id": "I04",
+  "title": "New price for emergency visits",
+  "type": "rule",
+  "difficulty": 1,
+  "two_sessions": false,
+  "repository": "northside_vet"
+}

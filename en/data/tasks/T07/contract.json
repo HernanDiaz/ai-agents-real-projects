@@ -1,0 +1,19 @@
+{
+  "task": "T07",
+  "goal": "The tune-up must be free up to the same date six months after the purchase.",
+  "allowed_paths": [
+    "estimates.py",
+    "utils.py",
+    "tests/test_estimates.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "config.py"
+  ],
+  "acceptance_criteria": [
+    "Bought on 04/10, the tune-ups on 10/08 and on 10/10 are free.",
+    "The one on 10/11 is charged.",
+    "Short months (08/31 → 02/28) are handled correctly."
+  ]
+}

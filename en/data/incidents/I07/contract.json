@@ -1,0 +1,18 @@
+{
+  "task": "I07",
+  "goal": "pharmacy.py and invoices.py must use format_dollars from utils.py.",
+  "allowed_paths": [
+    "pharmacy.py",
+    "invoices.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "tests/",
+    "utils.py"
+  ],
+  "acceptance_criteria": [
+    "Neither pharmacy.py nor invoices.py defines _dollars.",
+    "Both use format_dollars from utils.py.",
+    "The labels and the invoices come out the same as before."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "task": "T29",
+  "goal": "The summary of an order must show the shipping cost, if there is one.",
+  "allowed_paths": [
+    "orders.py",
+    "tests/test_orders.py"
+  ],
+  "forbidden_paths": [
+    "data/",
+    "docs/",
+    "manage.py"
+  ],
+  "acceptance_criteria": [
+    "With shipping, the summary ends in \"(shipping $X)\" after the amount.",
+    "Without shipping, or if the order doesn't have that field, the summary doesn't change.",
+    "The visible tests still pass."
+  ]
+}

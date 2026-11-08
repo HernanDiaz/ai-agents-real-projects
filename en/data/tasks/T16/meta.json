@@ -1,0 +1,8 @@
+{
+  "id": "T16",
+  "title": "Holiday returns",
+  "type": "rule",
+  "difficulty": 3,
+  "two_sessions": true,
+  "note": "The deadline calculation is duplicated in notices.py: if only returns.py is changed, the notice lies."
+}
